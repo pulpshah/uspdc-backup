@@ -1,0 +1,5767 @@
+Number of debates: 108
+Total unique speakers: 823
+Total words: 1127843
+Total words (no speaker names or insertions): 1126897
+Total interruptions: 3385
+Most common words in all debates: [('I', 25989), ('And', 10590), ('—', 6468), ('going', 5691), ('people', 5299), ('–', 5197), ('think', 5073), ('We', 4951), ('would', 4911), ('But', 3978), ('The', 3790), ('want', 3726), ('get', 3447), ('one', 3278), ('Mr.', 3277), ('don’t', 3215), ('it’s', 3203), ('I’m', 3104), ('make', 3042), ('said', 2894)]
+Speaker: LEHRER
+Turns: 1508
+Words: 26272
+Average words per turn: 17.421750663129973
+Sentences: 3034
+Average sentences per turn: 2.0119363395225465
+Interruptions: 115
+Speaker: OBAMA
+Turns: 1705
+Words: 62941
+Average words per turn: 36.91554252199413
+Sentences: 3593
+Average sentences per turn: 2.1073313782991203
+Interruptions: 170
+Speaker: ROMNEY
+Turns: 791
+Words: 31607
+Average words per turn: 39.958280657395704
+Sentences: 2257
+Average sentences per turn: 2.8533501896333755
+Interruptions: 87
+Speaker: IS
+Turns: 12
+Words: 463
+Average words per turn: 38.583333333333336
+Sentences: 38
+Average sentences per turn: 3.1666666666666665
+Interruptions: 1
+Speaker: STATE
+Turns: 1
+Words: 34
+Average words per turn: 34.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: GOVERNMENT
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: SCHIEFFER
+Turns: 455
+Words: 6981
+Average words per turn: 15.342857142857143
+Sentences: 758
+Average sentences per turn: 1.665934065934066
+Interruptions: 17
+Speaker: ROMNEHY
+Turns: 7
+Words: 317
+Average words per turn: 45.285714285714285
+Sentences: 25
+Average sentences per turn: 3.5714285714285716
+Interruptions: 1
+Speaker: OBAM
+Turns: 2
+Words: 7
+Average words per turn: 3.5
+Sentences: 3
+Average sentences per turn: 1.5
+Interruptions: 0
+Speaker: MALE
+Turns: 1
+Words: 1
+Average words per turn: 1.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: CROWLEY
+Turns: 196
+Words: 3521
+Average words per turn: 17.964285714285715
+Sentences: 396
+Average sentences per turn: 2.020408163265306
+Interruptions: 10
+Speaker: QUESTION
+Turns: 96
+Words: 2786
+Average words per turn: 29.020833333333332
+Sentences: 208
+Average sentences per turn: 2.1666666666666665
+Interruptions: 4
+Speaker: RADDATZ
+Turns: 567
+Words: 10434
+Average words per turn: 18.402116402116402
+Sentences: 1116
+Average sentences per turn: 1.9682539682539681
+Interruptions: 56
+Speaker: BIDEN
+Turns: 1069
+Words: 35490
+Average words per turn: 33.199251637043965
+Sentences: 3208
+Average sentences per turn: 3.000935453695042
+Interruptions: 148
+Speaker: RYAN
+Turns: 392
+Words: 10028
+Average words per turn: 25.581632653061224
+Sentences: 862
+Average sentences per turn: 2.1989795918367347
+Interruptions: 35
+Speaker: PEOPLE
+Turns: 1
+Words: 14
+Average words per turn: 14.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: PLAN
+Turns: 3
+Words: 79
+Average words per turn: 26.333333333333332
+Sentences: 4
+Average sentences per turn: 1.3333333333333333
+Interruptions: 0
+Speaker: THIS
+Turns: 31
+Words: 1200
+Average words per turn: 38.70967741935484
+Sentences: 68
+Average sentences per turn: 2.193548387096774
+Interruptions: 2
+Speaker: CLEAR
+Turns: 7
+Words: 240
+Average words per turn: 34.285714285714285
+Sentences: 20
+Average sentences per turn: 2.857142857142857
+Interruptions: 0
+Speaker: SPEAKERS
+Turns: 25
+Words: 311
+Average words per turn: 12.44
+Sentences: 41
+Average sentences per turn: 1.64
+Interruptions: 5
+Speaker: MARTHA RADDATZ, MODERATOR[*]RADDATZ
+Turns: 1
+Words: 48
+Average words per turn: 48.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: So will both of you level with the American people
+Turns: 1
+Words: 14
+Average words per turn: 14.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: (CROSSTALK) BIDEN
+Turns: 2
+Words: 62
+Average words per turn: 31.0
+Sentences: 5
+Average sentences per turn: 2.5
+Interruptions: 0
+Speaker: They haven’t put a credible solution on the table. He’ll tell you about vouchers. He’ll say all these things to try and scare people. Here’s what we’re saying
+Turns: 1
+Words: 50
+Average words per turn: 50.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 1
+Speaker: It also gave more benefits. Any senior out there, ask yourself
+Turns: 1
+Words: 48
+Average words per turn: 48.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: Now they got a new plan
+Turns: 1
+Words: 17
+Average words per turn: 17.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: What we are saying is, lower tax rates across the board and close loopholes, primarily to the higher-income people. We have three bottom lines
+Turns: 1
+Words: 25
+Average words per turn: 25.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: The fact is, we went there for one reason
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: Or remember when he said this
+Turns: 1
+Words: 27
+Average words per turn: 27.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And the president and I are not going to rest until that playing field is leveled, they, in fact, have a clear shot, and they have peace of mind, until they can turn to their kid and say with a degree of confidence, “Honey, it’s going to be OK. It’s going to be OK.” That’s what this is all about. RADDATZ
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: The choice is clear
+Turns: 1
+Words: 59
+Average words per turn: 59.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: But the president mentioned a couple of other ideas I’ll just note. First, education. I agree
+Turns: 1
+Words: 69
+Average words per turn: 69.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: And finally, with regards to that tax cut, look, I’m not looking to cut massive taxes and to reduce the — the revenues going to the government. My — my number-one principal is, there will be no tax cut that adds to the deficit. I want to underline that
+Turns: 1
+Words: 8
+Average words per turn: 8.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: But I do want to reduce the burden being paid by middle-income Americans. And I — and to do that, that also means I cannot reduce the burden paid by high-income Americans. So any — any language to the contrary is simply not accurate. LEHRER
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: What things would I cut from spending? Well, first of all, I will eliminate all programs by this test, if they don’t pass it
+Turns: 1
+Words: 27
+Average words per turn: 27.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: One last point I want to make. We do have to lower the cost of health care, not just in Medicare and Medicaid… LEHRER
+Turns: 1
+Words: 6
+Average words per turn: 6.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And so the question is
+Turns: 1
+Words: 39
+Average words per turn: 39.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And the best course for health care is to do what we did in my state
+Turns: 1
+Words: 34
+Average words per turn: 34.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: The role of government
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: (CROSSTALK) LEHRER
+Turns: 2
+Words: 10
+Average words per turn: 5.0
+Sentences: 3
+Average sentences per turn: 1.5
+Interruptions: 0
+Speaker: [*]CROWLEY
+Turns: 1
+Words: 36
+Average words per turn: 36.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Go ahead. OBAMA
+Turns: 1
+Words: 67
+Average words per turn: 67.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: This is about bringing good jobs back for the middle class of America, and that’s what I’m going to do. CROWLEY
+Turns: 1
+Words: 59
+Average words per turn: 59.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Now, Governor Romney has a different philosophy. He was on 60 Minutes just two weeks ago and he was asked
+Turns: 1
+Words: 49
+Average words per turn: 49.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: (LAUGHTER) ROMNEY
+Turns: 1
+Words: 3
+Average words per turn: 3.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: An economy with 50 percent of kids graduating from college that can’t finds a job, or a college level job, that’s not what we have to have. CROWLEY
+Turns: 1
+Words: 1
+Average words per turn: 1.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And, Governor, it’s for you. QUESTION
+Turns: 1
+Words: 42
+Average words per turn: 42.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I’d like to understand who it was that did this, what the idea was behind it, why it led to the violence, thousands of guns going to Mexican drug lords. OBAMA
+Turns: 1
+Words: 1
+Average words per turn: 1.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: GO TO
+Turns: 13
+Words: 0
+Average words per turn: 0.0
+Sentences: 13
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Date
+Turns: 48
+Words: 33
+Average words per turn: 0.6875
+Sentences: 48
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Location
+Turns: 47
+Words: 36
+Average words per turn: 0.7659574468085106
+Sentences: 48
+Average sentences per turn: 1.0212765957446808
+Interruptions: 0
+Speaker: City
+Turns: 47
+Words: 27
+Average words per turn: 0.574468085106383
+Sentences: 48
+Average sentences per turn: 1.0212765957446808
+Interruptions: 0
+Speaker: Time
+Turns: 52
+Words: 62
+Average words per turn: 1.1923076923076923
+Sentences: 52
+Average sentences per turn: 1.0
+Interruptions: 6
+Speaker: Sponsor
+Turns: 48
+Words: 44
+Average words per turn: 0.9166666666666666
+Sentences: 48
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Moderator
+Turns: 47
+Words: 40
+Average words per turn: 0.851063829787234
+Sentences: 47
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Topic
+Turns: 28
+Words: 22
+Average words per turn: 0.7857142857142857
+Sentences: 28
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Viewership
+Turns: 45
+Words: 88
+Average words per turn: 1.9555555555555555
+Sentences: 45
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Format
+Turns: 49
+Words: 604
+Average words per turn: 12.326530612244898
+Sentences: 81
+Average sentences per turn: 1.653061224489796
+Interruptions: 11
+Speaker: Pool coverage provided by
+Turns: 23
+Words: 22
+Average words per turn: 0.9565217391304348
+Sentences: 23
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: [*]SCHIEFFER
+Turns: 1
+Words: 33
+Average words per turn: 33.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And how do we do that? A group of Arab scholars came together, organized by the U.N., to look at how we can help the — the world reject these — these terrorists. And the answer they came up with was this
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And I am confident that Assad’s days are numbered. But what we can’t do is to simply suggest that, as Governor Romney at times has suggested, that giving heavy weapons, for example, to the Syrian opposition is a simple proposition that would lead us to be safer over the long term. SCHIEFFER
+Turns: 1
+Words: 1
+Average words per turn: 1.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: (CROSSTALK) SCHIEFFER
+Turns: 1
+Words: 4
+Average words per turn: 4.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: The United States is scheduled to turn over responsibility for security in Afghanistan to the Afghan government in 2014. At that point, we will withdraw our combat troops, leave a smaller force of Americans, if I understand our policy, in Afghanistan for training purposes. It seems to me the key question here is
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: UNIDENTIFIED MALE
+Turns: 1
+Words: 1
+Average words per turn: 1.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: BUSH
+Turns: 1250
+Words: 103025
+Average words per turn: 82.42
+Sentences: 7327
+Average sentences per turn: 5.8616
+Interruptions: 236
+Speaker: DUKAKIS
+Turns: 199
+Words: 25636
+Average words per turn: 128.82412060301507
+Sentences: 1381
+Average sentences per turn: 6.939698492462312
+Interruptions: 50
+Speaker: MASHEK
+Turns: 42
+Words: 1999
+Average words per turn: 47.595238095238095
+Sentences: 119
+Average sentences per turn: 2.8333333333333335
+Interruptions: 9
+Speaker: GROER
+Turns: 18
+Words: 1454
+Average words per turn: 80.77777777777777
+Sentences: 81
+Average sentences per turn: 4.5
+Interruptions: 2
+Speaker: JENNINGS
+Turns: 14
+Words: 1300
+Average words per turn: 92.85714285714286
+Sentences: 68
+Average sentences per turn: 4.857142857142857
+Interruptions: 4
+Speaker: SHAW
+Turns: 159
+Words: 2323
+Average words per turn: 14.61006289308176
+Sentences: 300
+Average sentences per turn: 1.8867924528301887
+Interruptions: 18
+Speaker: COMPTON
+Turns: 31
+Words: 1472
+Average words per turn: 47.483870967741936
+Sentences: 82
+Average sentences per turn: 2.6451612903225805
+Interruptions: 3
+Speaker: WARNER
+Turns: 24
+Words: 1226
+Average words per turn: 51.083333333333336
+Sentences: 68
+Average sentences per turn: 2.8333333333333335
+Interruptions: 4
+Speaker: MITCHELL
+Turns: 18
+Words: 1322
+Average words per turn: 73.44444444444444
+Sentences: 74
+Average sentences per turn: 4.111111111111111
+Interruptions: 4
+Speaker: WOODRUFF
+Turns: 116
+Words: 1674
+Average words per turn: 14.431034482758621
+Sentences: 182
+Average sentences per turn: 1.5689655172413792
+Interruptions: 2
+Speaker: QUAYLE
+Turns: 338
+Words: 19020
+Average words per turn: 56.27218934911242
+Sentences: 1239
+Average sentences per turn: 3.665680473372781
+Interruptions: 40
+Speaker: BENTSEN
+Turns: 64
+Words: 11938
+Average words per turn: 186.53125
+Sentences: 568
+Average sentences per turn: 8.875
+Interruptions: 18
+Speaker: MARGOLIS
+Turns: 24
+Words: 2172
+Average words per turn: 90.5
+Sentences: 82
+Average sentences per turn: 3.4166666666666665
+Interruptions: 8
+Speaker: BROKAW
+Turns: 181
+Words: 4235
+Average words per turn: 23.39779005524862
+Sentences: 305
+Average sentences per turn: 1.6850828729281768
+Interruptions: 20
+Speaker: HUME
+Turns: 10
+Words: 1008
+Average words per turn: 100.8
+Sentences: 46
+Average sentences per turn: 4.6
+Interruptions: 0
+Speaker: 8
+Turns: 11
+Words: 380
+Average words per turn: 34.54545454545455
+Sentences: 30
+Average sentences per turn: 2.727272727272727
+Interruptions: 2
+Speaker: Panelists
+Turns: 18
+Words: 0
+Average words per turn: 0.0
+Sentences: 18
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: 9
+Turns: 28
+Words: 158
+Average words per turn: 5.642857142857143
+Sentences: 57
+Average sentences per turn: 2.0357142857142856
+Interruptions: 1
+Speaker: Topics
+Turns: 6
+Words: 0
+Average words per turn: 0.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: HINERFELD
+Turns: 2
+Words: 142
+Average words per turn: 71.0
+Sentences: 14
+Average sentences per turn: 7.0
+Interruptions: 1
+Speaker: MOYERS
+Turns: 65
+Words: 838
+Average words per turn: 12.892307692307693
+Sentences: 158
+Average sentences per turn: 2.4307692307692306
+Interruptions: 0
+Speaker: RULE
+Turns: 2
+Words: 37
+Average words per turn: 18.5
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: LOOMIS
+Turns: 4
+Words: 195
+Average words per turn: 48.75
+Sentences: 9
+Average sentences per turn: 2.25
+Interruptions: 0
+Speaker: ANDERSON
+Turns: 28
+Words: 7569
+Average words per turn: 270.32142857142856
+Sentences: 290
+Average sentences per turn: 10.357142857142858
+Interruptions: 14
+Speaker: REAGAN
+Turns: 219
+Words: 25174
+Average words per turn: 114.94977168949772
+Sentences: 1179
+Average sentences per turn: 5.383561643835616
+Interruptions: 56
+Speaker: GREENBERG
+Turns: 3
+Words: 203
+Average words per turn: 67.66666666666667
+Sentences: 7
+Average sentences per turn: 2.3333333333333335
+Interruptions: 0
+Speaker: CORDDRY
+Turns: 3
+Words: 233
+Average words per turn: 77.66666666666667
+Sentences: 12
+Average sentences per turn: 4.0
+Interruptions: 3
+Speaker: MAY
+Turns: 3
+Words: 185
+Average words per turn: 61.666666666666664
+Sentences: 9
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: QUINN
+Turns: 3
+Words: 270
+Average words per turn: 90.0
+Sentences: 15
+Average sentences per turn: 5.0
+Interruptions: 1
+Speaker: GOLDEN
+Turns: 5
+Words: 206
+Average words per turn: 41.2
+Sentences: 19
+Average sentences per turn: 3.8
+Interruptions: 2
+Speaker: SMITH
+Turns: 76
+Words: 1473
+Average words per turn: 19.38157894736842
+Sentences: 169
+Average sentences per turn: 2.223684210526316
+Interruptions: 11
+Speaker: STONE
+Turns: 6
+Words: 605
+Average words per turn: 100.83333333333333
+Sentences: 27
+Average sentences per turn: 4.5
+Interruptions: 6
+Speaker: CARTER
+Turns: 84
+Words: 24281
+Average words per turn: 289.0595238095238
+Sentences: 1157
+Average sentences per turn: 13.773809523809524
+Interruptions: 58
+Speaker: ELLIS
+Turns: 6
+Words: 524
+Average words per turn: 87.33333333333333
+Sentences: 34
+Average sentences per turn: 5.666666666666667
+Interruptions: 0
+Speaker: HILLIARD
+Turns: 6
+Words: 444
+Average words per turn: 74.0
+Sentences: 28
+Average sentences per turn: 4.666666666666667
+Interruptions: 4
+Speaker: WALTERS
+Turns: 108
+Words: 2769
+Average words per turn: 25.63888888888889
+Sentences: 289
+Average sentences per turn: 2.675925925925926
+Interruptions: 7
+Speaker: 10
+Turns: 2
+Words: 8
+Average words per turn: 4.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 1
+Speaker: First half
+Turns: 3
+Words: 75
+Average words per turn: 25.0
+Sentences: 7
+Average sentences per turn: 2.3333333333333335
+Interruptions: 2
+Speaker: RUTH J. HINERFELD, CHAIR, LEAGUE OF WOMEN VOTERS EDUCATION FUND
+Turns: 1
+Words: 64
+Average words per turn: 64.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 1
+Speaker: MR. MOYERS, HOST AND EXECUTIVE EDITOR, “BILL MOYERS’ JOURNAL,” PUBLIC BROADCASTING SYSTEM
+Turns: 1
+Words: 63
+Average words per turn: 63.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Former Governor Ronald Reagan, a Republican Party candidate, and Congressman John Anderson, who is running as an Independent, accepted the League of Women Voters’ invitation to be here. President Carter declined. Mr. Reagan and Mr. Anderson will respond with their views on certain issues posed by questions from my colleagues
+Turns: 1
+Words: 63
+Average words per turn: 63.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: We ask the Convention Center audience to abide by one simple ground rule
+Turns: 1
+Words: 19
+Average words per turn: 19.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: CAROL LOOMIS, BOARD OF EDITORS, FORTUNE MAGAZINE
+Turns: 1
+Words: 83
+Average words per turn: 83.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: REP. JOHN B. ANDERSON
+Turns: 1
+Words: 438
+Average words per turn: 438.0
+Sentences: 13
+Average sentences per turn: 13.0
+Interruptions: 1
+Speaker: GOV. RONALD REAGAN
+Turns: 1
+Words: 245
+Average words per turn: 245.0
+Sentences: 7
+Average sentences per turn: 7.0
+Interruptions: 1
+Speaker: GREENBERG, SYNDICATED COLUMNIST
+Turns: 1
+Words: 117
+Average words per turn: 117.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: CHARLES CORDDRY, MILITARY CORRESPONDENT, THE SUN, BALTIMORE
+Turns: 1
+Words: 117
+Average words per turn: 117.0
+Sentences: 8
+Average sentences per turn: 8.0
+Interruptions: 1
+Speaker: LEE MAY, STAFF WRITER, THE LOS ANGELES TIMES – WASHINGTON BUREAU
+Turns: 1
+Words: 87
+Average words per turn: 87.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: JANE BRYANT QUINN, CBS NEWS/NEWSWEEK/WASHINGTON POST
+Turns: 1
+Words: 156
+Average words per turn: 156.0
+Sentences: 7
+Average sentences per turn: 7.0
+Interruptions: 1
+Speaker: GOLDEN, EDITORIAL WRITER, THE NEW YORK TIMES
+Turns: 1
+Words: 116
+Average words per turn: 116.0
+Sentences: 9
+Average sentences per turn: 9.0
+Interruptions: 0
+Speaker: RUTH HINERFELD, LEAGUE OF WOMEN VOTERS, EDUCATION FUND
+Turns: 1
+Words: 78
+Average words per turn: 78.0
+Sentences: 8
+Average sentences per turn: 8.0
+Interruptions: 0
+Speaker: MR. SMITH, ABC NEWS
+Turns: 1
+Words: 276
+Average words per turn: 276.0
+Sentences: 18
+Average sentences per turn: 18.0
+Interruptions: 1
+Speaker: MARVIN STONE, U.S. NEWS AND WORLD REPORT
+Turns: 1
+Words: 99
+Average words per turn: 99.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 1
+Speaker: MR. REAGAN
+Turns: 24
+Words: 6014
+Average words per turn: 250.58333333333334
+Sentences: 245
+Average sentences per turn: 10.208333333333334
+Interruptions: 11
+Speaker: MR. SMITH
+Turns: 72
+Words: 1046
+Average words per turn: 14.527777777777779
+Sentences: 139
+Average sentences per turn: 1.9305555555555556
+Interruptions: 9
+Speaker: MR. STONE
+Turns: 5
+Words: 506
+Average words per turn: 101.2
+Sentences: 22
+Average sentences per turn: 4.4
+Interruptions: 5
+Speaker: MR. CARTER
+Turns: 84
+Words: 24281
+Average words per turn: 289.0595238095238
+Sentences: 1157
+Average sentences per turn: 13.773809523809524
+Interruptions: 58
+Speaker: MR. ELLIS, CHRISTIAN SCIENCE MONITOR
+Turns: 1
+Words: 90
+Average words per turn: 90.0
+Sentences: 8
+Average sentences per turn: 8.0
+Interruptions: 0
+Speaker: MR. ELLIS
+Turns: 4
+Words: 323
+Average words per turn: 80.75
+Sentences: 19
+Average sentences per turn: 4.75
+Interruptions: 0
+Speaker: WILLIAM HILLIARD, PORTLAND OREGONIAN
+Turns: 1
+Words: 80
+Average words per turn: 80.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: MR. HILLIARD
+Turns: 5
+Words: 364
+Average words per turn: 72.8
+Sentences: 24
+Average sentences per turn: 4.8
+Interruptions: 4
+Speaker: BARBARA WALTERS
+Turns: 1
+Words: 110
+Average words per turn: 110.0
+Sentences: 7
+Average sentences per turn: 7.0
+Interruptions: 0
+Speaker: MS. WALTERS
+Turns: 74
+Words: 1721
+Average words per turn: 23.256756756756758
+Sentences: 192
+Average sentences per turn: 2.5945945945945947
+Interruptions: 3
+Speaker: HARRY ELLIS
+Turns: 1
+Words: 111
+Average words per turn: 111.0
+Sentences: 7
+Average sentences per turn: 7.0
+Interruptions: 0
+Speaker: HOWE
+Turns: 21
+Words: 634
+Average words per turn: 30.19047619047619
+Sentences: 58
+Average sentences per turn: 2.761904761904762
+Interruptions: 2
+Speaker: NIXON
+Turns: 49
+Words: 18941
+Average words per turn: 386.55102040816325
+Sentences: 865
+Average sentences per turn: 17.653061224489797
+Interruptions: 36
+Speaker: KENNEDY
+Turns: 55
+Words: 18264
+Average words per turn: 332.07272727272726
+Sentences: 935
+Average sentences per turn: 17.0
+Interruptions: 41
+Speaker: SINGISER
+Turns: 1
+Words: 77
+Average words per turn: 77.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: EDWARDS
+Turns: 297
+Words: 8545
+Average words per turn: 28.77104377104377
+Sentences: 553
+Average sentences per turn: 1.861952861952862
+Interruptions: 20
+Speaker: CRONKITE
+Turns: 2
+Words: 145
+Average words per turn: 72.5
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: CHANCELLOR
+Turns: 2
+Words: 169
+Average words per turn: 84.5
+Sentences: 7
+Average sentences per turn: 3.5
+Interruptions: 1
+Speaker: FLEMING
+Turns: 2
+Words: 77
+Average words per turn: 38.5
+Sentences: 5
+Average sentences per turn: 2.5
+Interruptions: 0
+Speaker: NOVINS
+Turns: 5
+Words: 167
+Average words per turn: 33.4
+Sentences: 9
+Average sentences per turn: 1.8
+Interruptions: 1
+Speaker: WARREN
+Turns: 4
+Words: 271
+Average words per turn: 67.75
+Sentences: 14
+Average sentences per turn: 3.5
+Interruptions: 0
+Speaker: VANOCUR
+Turns: 76
+Words: 1831
+Average words per turn: 24.092105263157894
+Sentences: 176
+Average sentences per turn: 2.3157894736842106
+Interruptions: 23
+Speaker: VOICE
+Turns: 2
+Words: 28
+Average words per turn: 14.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MCGEE
+Turns: 30
+Words: 808
+Average words per turn: 26.933333333333334
+Sentences: 84
+Average sentences per turn: 2.8
+Interruptions: 4
+Speaker: NIVEN
+Turns: 3
+Words: 175
+Average words per turn: 58.333333333333336
+Sentences: 12
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: MORGAN
+Turns: 3
+Words: 142
+Average words per turn: 47.333333333333336
+Sentences: 7
+Average sentences per turn: 2.3333333333333335
+Interruptions: 1
+Speaker: SPIVAK
+Turns: 3
+Words: 159
+Average words per turn: 53.0
+Sentences: 8
+Average sentences per turn: 2.6666666666666665
+Interruptions: 0
+Speaker: LEVY
+Turns: 5
+Words: 784
+Average words per turn: 156.8
+Sentences: 43
+Average sentences per turn: 8.6
+Interruptions: 3
+Speaker: SHADEL
+Turns: 29
+Words: 829
+Average words per turn: 28.586206896551722
+Sentences: 88
+Average sentences per turn: 3.0344827586206895
+Interruptions: 2
+Speaker: FREMD
+Turns: 3
+Words: 222
+Average words per turn: 74.0
+Sentences: 9
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: CATER
+Turns: 3
+Words: 287
+Average words per turn: 95.66666666666667
+Sentences: 13
+Average sentences per turn: 4.333333333333333
+Interruptions: 2
+Speaker: DUMMOND
+Turns: 4
+Words: 355
+Average words per turn: 88.75
+Sentences: 17
+Average sentences per turn: 4.25
+Interruptions: 2
+Speaker: Networks
+Turns: 4
+Words: 12
+Average words per turn: 3.0
+Sentences: 4
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: News
+Turns: 4
+Words: 0
+Average words per turn: 0.0
+Sentences: 4
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: 7
+Turns: 3
+Words: 13
+Average words per turn: 4.333333333333333
+Sentences: 6
+Average sentences per turn: 2.0
+Interruptions: 1
+Speaker: FRANK McGEE, MODERATOR
+Turns: 1
+Words: 291
+Average words per turn: 291.0
+Sentences: 20
+Average sentences per turn: 20.0
+Interruptions: 1
+Speaker: MR. NIVEN
+Turns: 3
+Words: 175
+Average words per turn: 58.333333333333336
+Sentences: 12
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: MR. NIXON
+Turns: 45
+Words: 17938
+Average words per turn: 398.6222222222222
+Sentences: 820
+Average sentences per turn: 18.22222222222222
+Interruptions: 35
+Speaker: MR. McGEE
+Turns: 29
+Words: 517
+Average words per turn: 17.82758620689655
+Sentences: 64
+Average sentences per turn: 2.206896551724138
+Interruptions: 3
+Speaker: MR. KENNEDY
+Turns: 53
+Words: 16803
+Average words per turn: 317.0377358490566
+Sentences: 864
+Average sentences per turn: 16.30188679245283
+Interruptions: 39
+Speaker: MR. MORGAN
+Turns: 3
+Words: 142
+Average words per turn: 47.333333333333336
+Sentences: 7
+Average sentences per turn: 2.3333333333333335
+Interruptions: 1
+Speaker: MR. SPIVAK
+Turns: 3
+Words: 159
+Average words per turn: 53.0
+Sentences: 8
+Average sentences per turn: 2.6666666666666665
+Interruptions: 0
+Speaker: MR. LEVY
+Turns: 4
+Words: 729
+Average words per turn: 182.25
+Sentences: 39
+Average sentences per turn: 9.75
+Interruptions: 3
+Speaker: MR. NIXON; Because that’s the way we elect a president in this country, and it’s the way we should. I’m a student of history as is Senator Kennedy, incidentally; and I have found that in the history of this country we’ve had many great presidents. Some of them have been Democrats and some of them have been Republicans. The people, some way, have always understood that at a particular time a certain man was the one the country needed. Now, I believe that in an election when we are trying to determine who should lead the free world – not just America – perhaps, as Senator Kennedy has already indicated, the most important election in our history – it isn’t the label that he wears or that I wear that counts. It’s what we are. It’s our whole lives. It’s what we stand for. It’s what we believe. And consequently, I don’t think it’s enough to go before Republican audiences – and I never do – and say, “Look, vote for me because I’m a Republican.” I don’t think it’s enough for Senator Kennedy to go before the audiences on the Democratic side and say, “Vote for me because I’m a Democrat.” That isn’t enough. What’s involved here is the question of leadership for the whole free world. Now that means the best leadership. It may be Republican, it may be Democratic. But the people are the ones that determine it. The people have to make up their minds. And I believe the people, therefore, should be asked to make up their minds not simply on the basis of, “Vote the way your grandfather did; vote the way your mother did.” I think the people should put America first, rather than party first. Now, as far as running away from my party is concerned, Senator Kennedy has said that we have no compassion for the poor, that we are against progress – the enemies of progress, is the term that he’s used, and the like. All that I can say is this
+Turns: 1
+Words: 77
+Average words per turn: 77.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: BILL SHADEL, MODERATOR
+Turns: 1
+Words: 125
+Average words per turn: 125.0
+Sentences: 9
+Average sentences per turn: 9.0
+Interruptions: 0
+Speaker: MR. SHADEL
+Turns: 28
+Words: 704
+Average words per turn: 25.142857142857142
+Sentences: 79
+Average sentences per turn: 2.8214285714285716
+Interruptions: 2
+Speaker: MR. VON FREMD
+Turns: 3
+Words: 222
+Average words per turn: 74.0
+Sentences: 9
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: MR. CATER
+Turns: 3
+Words: 287
+Average words per turn: 95.66666666666667
+Sentences: 13
+Average sentences per turn: 4.333333333333333
+Interruptions: 2
+Speaker: MR. DRUMMOND
+Turns: 4
+Words: 355
+Average words per turn: 88.75
+Sentences: 17
+Average sentences per turn: 4.25
+Interruptions: 2
+Speaker: HOWARD K. SMITH, MODERATOR
+Turns: 1
+Words: 146
+Average words per turn: 146.0
+Sentences: 11
+Average sentences per turn: 11.0
+Interruptions: 1
+Speaker: SENATOR KENNEDY
+Turns: 1
+Words: 1259
+Average words per turn: 1259.0
+Sentences: 63
+Average sentences per turn: 63.0
+Interruptions: 1
+Speaker: MR. FLEMING
+Turns: 2
+Words: 77
+Average words per turn: 38.5
+Sentences: 5
+Average sentences per turn: 2.5
+Interruptions: 0
+Speaker: Mr. NIXON
+Turns: 1
+Words: 4
+Average words per turn: 4.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Mr. SMITH
+Turns: 2
+Words: 15
+Average words per turn: 7.5
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: MR. NOVINS
+Turns: 5
+Words: 167
+Average words per turn: 33.4
+Sentences: 9
+Average sentences per turn: 1.8
+Interruptions: 1
+Speaker: MR. WARREN
+Turns: 4
+Words: 271
+Average words per turn: 67.75
+Sentences: 14
+Average sentences per turn: 3.5
+Interruptions: 0
+Speaker: MR. VANOCUR
+Turns: 4
+Words: 333
+Average words per turn: 83.25
+Sentences: 14
+Average sentences per turn: 3.5
+Interruptions: 2
+Speaker: Mr. KENNEDY
+Turns: 1
+Words: 202
+Average words per turn: 202.0
+Sentences: 8
+Average sentences per turn: 8.0
+Interruptions: 1
+Speaker: MR. NIXON; I would say this
+Turns: 1
+Words: 294
+Average words per turn: 294.0
+Sentences: 11
+Average sentences per turn: 11.0
+Interruptions: 0
+Speaker: MR. SM1TH
+Turns: 1
+Words: 17
+Average words per turn: 17.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: QUINCY HOWE, MODERATOR
+Turns: 1
+Words: 54
+Average words per turn: 54.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: MR. HOWE
+Turns: 20
+Words: 580
+Average words per turn: 29.0
+Sentences: 55
+Average sentences per turn: 2.75
+Interruptions: 1
+Speaker: MR. SINGISER
+Turns: 1
+Words: 77
+Average words per turn: 77.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: MR. EDWARDS
+Turns: 2
+Words: 135
+Average words per turn: 67.5
+Sentences: 8
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: MR. CRONKITE
+Turns: 2
+Words: 145
+Average words per turn: 72.5
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: MR. CHANCELLOR
+Turns: 2
+Words: 169
+Average words per turn: 84.5
+Sentences: 7
+Average sentences per turn: 3.5
+Interruptions: 1
+Speaker: Length
+Turns: 2
+Words: 0
+Average words per turn: 0.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: CLINTON
+Turns: 1086
+Words: 75448
+Average words per turn: 69.47329650092081
+Sentences: 4541
+Average sentences per turn: 4.181399631675875
+Interruptions: 240
+Speaker: PEROT
+Turns: 198
+Words: 11715
+Average words per turn: 59.166666666666664
+Sentences: 760
+Average sentences per turn: 3.8383838383838382
+Interruptions: 34
+Speaker: ROOK
+Turns: 8
+Words: 259
+Average words per turn: 32.375
+Sentences: 17
+Average sentences per turn: 2.125
+Interruptions: 0
+Speaker: THOMAS
+Turns: 4
+Words: 228
+Average words per turn: 57.0
+Sentences: 12
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: GIBBONS
+Turns: 5
+Words: 209
+Average words per turn: 41.8
+Sentences: 11
+Average sentences per turn: 2.2
+Interruptions: 0
+Speaker: BRUNO
+Turns: 196
+Words: 3114
+Average words per turn: 15.887755102040817
+Sentences: 348
+Average sentences per turn: 1.7755102040816326
+Interruptions: 0
+Speaker: GORE
+Turns: 639
+Words: 60304
+Average words per turn: 94.37245696400626
+Sentences: 3639
+Average sentences per turn: 5.694835680751174
+Interruptions: 166
+Speaker: STOCKDALE
+Turns: 63
+Words: 3556
+Average words per turn: 56.44444444444444
+Sentences: 199
+Average sentences per turn: 3.1587301587301586
+Interruptions: 16
+Speaker: YOU
+Turns: 5
+Words: 121
+Average words per turn: 24.2
+Sentences: 7
+Average sentences per turn: 1.4
+Interruptions: 0
+Speaker: TIME
+Turns: 2
+Words: 83
+Average words per turn: 41.5
+Sentences: 3
+Average sentences per turn: 1.5
+Interruptions: 0
+Speaker: BUT
+Turns: 1
+Words: 13
+Average words per turn: 13.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: HAL BRUNO
+Turns: 1
+Words: 57
+Average words per turn: 57.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: SENATOR GORE
+Turns: 1
+Words: 106
+Average words per turn: 106.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 0
+Speaker: VICE PRESIDENT QUAYLE
+Turns: 1
+Words: 18
+Average words per turn: 18.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: In St. Louis, Missouri, in June of this year, Bill Clinton said this
+Turns: 1
+Words: 10
+Average words per turn: 10.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: ADMIRAL STOCKDALE
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Let me tell you
+Turns: 1
+Words: 35
+Average words per turn: 35.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: But I want to return and say one more time
+Turns: 1
+Words: 75
+Average words per turn: 75.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Yes, we are making a conversion and we can go to a civil space rather than having defense — or the defense industry. Well, let me say this
+Turns: 1
+Words: 59
+Average words per turn: 59.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Abortion rights has been a bitter controversy in this country for almost 20 years. It’s been heightened by the recent Supreme Court decisions. So I’ll make it very simple in this question
+Turns: 1
+Words: 44
+Average words per turn: 44.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: But, Dan, you can clear this up very simply by repeating after me
+Turns: 1
+Words: 13
+Average words per turn: 13.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Let’s face up to it, Dan
+Turns: 1
+Words: 39
+Average words per turn: 39.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 1
+Speaker: I was in Vilnius, Lithuania, Independence Square, speaking to 10,000 people in the middle of winter. Hundreds of people came up to me and said
+Turns: 1
+Words: 3
+Average words per turn: 3.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: The next presidential debate is scheduled for this Thursday at 9
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Transcript
+Turns: 3
+Words: 0
+Average words per turn: 0.0
+Sentences: 3
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Questioners
+Turns: 2
+Words: 0
+Average words per turn: 0.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: 2nd thing, there are not many times in your life when you get to talk to a whole country. But let me just say to all of America
+Turns: 1
+Words: 16
+Average words per turn: 16.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Mr. Bush is trying to run against Lyndon Johnson and Jimmy Carter and everybody in the world but me in this race. I have proposed a managed competition plan for health care. I will say again
+Turns: 1
+Words: 71
+Average words per turn: 71.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: JIM LEHRER
+Turns: 1
+Words: 32
+Average words per turn: 32.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Governor Clinton, in accordance with the draw, those concerns about you are first
+Turns: 1
+Words: 53
+Average words per turn: 53.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: GOVERNOR CLINTON
+Turns: 1
+Words: 78
+Average words per turn: 78.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: I propose an American version of what works in other countries — I think we can do it better
+Turns: 1
+Words: 3
+Average words per turn: 3.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: PRESIDENT BUSH
+Turns: 1
+Words: 10
+Average words per turn: 10.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: As regarding Mr. Perot, I take back something I said about him. I once said, in a frivolous moment, when he got out of the race
+Turns: 1
+Words: 48
+Average words per turn: 48.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: But one mistake he’s made is fuel efficiency standards at 40 to 45 miles a gallon will throw many auto workers out of work, and you can’t have it both ways. There’s a pattern here of appealing to the auto workers and then trying to appeal to the spotted owl crowds or the extremes in the environmental movement. You can’t do it as president
+Turns: 1
+Words: 17
+Average words per turn: 17.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: GOVERNOR CLINTON (continuing)
+Turns: 1
+Words: 52
+Average words per turn: 52.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: HELEN THOMAS (upi)
+Turns: 1
+Words: 44
+Average words per turn: 44.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: GENE GIBBONS (Reuters)
+Turns: 1
+Words: 75
+Average words per turn: 75.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: SUSAN ROOK (CNN)
+Turns: 1
+Words: 46
+Average words per turn: 46.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: This Thursday night on ABC from 8
+Turns: 1
+Words: 42
+Average words per turn: 42.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Finally, to you students up there — God bless you, I’m doing this for you
+Turns: 1
+Words: 8
+Average words per turn: 8.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MCCAIN
+Turns: 994
+Words: 34411
+Average words per turn: 34.618712273641854
+Sentences: 2180
+Average sentences per turn: 2.193158953722334
+Interruptions: 120
+Speaker: 2ND
+Turns: 5
+Words: 88
+Average words per turn: 17.6
+Sentences: 16
+Average sentences per turn: 3.2
+Interruptions: 0
+Speaker: BY
+Turns: 5
+Words: 41
+Average words per turn: 8.2
+Sentences: 13
+Average sentences per turn: 2.6
+Interruptions: 1
+Speaker: [*] LEHRER
+Turns: 2
+Words: 110
+Average words per turn: 55.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: But let’s be clear
+Turns: 2
+Words: 82
+Average words per turn: 41.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Now, John mentioned the fact that business taxes on paper are high in this country, and he’s absolutely right. Here’s the problem
+Turns: 2
+Words: 72
+Average words per turn: 36.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: So you may end up getting a $5,000 tax credit. Here’s the only problem
+Turns: 2
+Words: 86
+Average words per turn: 43.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Let’s give every American a choice
+Turns: 2
+Words: 56
+Average words per turn: 28.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Now, look, we all would love to lower taxes on everybody. But here’s the problem
+Turns: 2
+Words: 48
+Average words per turn: 24.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And I saw that, and I saw the situation, and I stood up, and I voted against that, because I was afraid that they couldn’t make peace in a place where 300 or 400 or several hundred Marines would make a difference. Tragically, I was right
+Turns: 2
+Words: 24
+Average words per turn: 12.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: On October 2nd, next Thursday, also at 9
+Turns: 2
+Words: 52
+Average words per turn: 26.0
+Sentences: 8
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: Transcription by
+Turns: 5
+Words: 30
+Average words per turn: 6.0
+Sentences: 13
+Average sentences per turn: 2.6
+Interruptions: 0
+Speaker: [*] BROKAW
+Turns: 1
+Words: 28
+Average words per turn: 28.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: But understand this
+Turns: 1
+Words: 59
+Average words per turn: 59.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: When you announce that you’re going to launch an attack into another country, it’s pretty obvious that you have the effect that it had in Pakistan
+Turns: 1
+Words: 6
+Average words per turn: 6.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And the question in this election is
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Thank you. BROKAW
+Turns: 1
+Words: 15
+Average words per turn: 15.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: [*] SCHIEFFER
+Turns: 1
+Words: 26
+Average words per turn: 26.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: I will ask both of you
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: I think everybody understands at this point that we are experiencing the worst financial crisis since the Great Depression. And the financial rescue plan that Senator McCain and I supported is an important first step. And I pushed for some core principles
+Turns: 1
+Words: 25
+Average words per turn: 25.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: What the American people can’t afford, though, is four more years of failed economic policies. And what they deserve over the next four weeks is that we talk about what’s most pressing to them
+Turns: 1
+Words: 3
+Average words per turn: 3.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And I believe the first question goes to you, Senator McCain. MCCAIN
+Turns: 1
+Words: 23
+Average words per turn: 23.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: The question is this
+Turns: 1
+Words: 37
+Average words per turn: 37.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: LIEBERMAN
+Turns: 68
+Words: 13396
+Average words per turn: 197.0
+Sentences: 734
+Average sentences per turn: 10.794117647058824
+Interruptions: 36
+Speaker: CHENEY
+Turns: 295
+Words: 20886
+Average words per turn: 70.8
+Sentences: 1245
+Average sentences per turn: 4.220338983050848
+Interruptions: 41
+Speaker: AUDIENCE
+Turns: 18
+Words: 778
+Average words per turn: 43.22222222222222
+Sentences: 44
+Average sentences per turn: 2.4444444444444446
+Interruptions: 2
+Speaker: MODERATOR
+Turns: 284
+Words: 5651
+Average words per turn: 19.89788732394366
+Sentences: 590
+Average sentences per turn: 2.0774647887323945
+Interruptions: 23
+Speaker: MEMBER OF AUDIENCE
+Turns: 18
+Words: 778
+Average words per turn: 43.22222222222222
+Sentences: 44
+Average sentences per turn: 2.4444444444444446
+Interruptions: 2
+Speaker: Dates
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Cities
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Seven Illinois congressional districts
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Video
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: WELKER
+Turns: 292
+Words: 6550
+Average words per turn: 22.431506849315067
+Sentences: 590
+Average sentences per turn: 2.0205479452054793
+Interruptions: 6
+Speaker: TRUMP
+Turns: 2004
+Words: 74879
+Average words per turn: 37.36477045908184
+Sentences: 7326
+Average sentences per turn: 3.655688622754491
+Interruptions: 248
+Speaker: WALLACE
+Turns: 740
+Words: 13320
+Average words per turn: 18.0
+Sentences: 1616
+Average sentences per turn: 2.1837837837837837
+Interruptions: 168
+Speaker: PAGE
+Turns: 186
+Words: 6506
+Average words per turn: 34.97849462365591
+Sentences: 476
+Average sentences per turn: 2.5591397849462365
+Interruptions: 26
+Speaker: PENCE
+Turns: 592
+Words: 21326
+Average words per turn: 36.023648648648646
+Sentences: 1482
+Average sentences per turn: 2.5033783783783785
+Interruptions: 82
+Speaker: HARRIS
+Turns: 124
+Words: 10338
+Average words per turn: 83.37096774193549
+Sentences: 628
+Average sentences per turn: 5.064516129032258
+Interruptions: 16
+Speaker: PARTICIPANTS
+Turns: 7
+Words: 0
+Average words per turn: 0.0
+Sentences: 7
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And we will begin with the fight against the coronavirus. President Trump, the first question is for you. The country is heading into a dangerous new phase. More than 40,000 Americans are in the hospital tonight with COVID, including record numbers here in Tennessee. And since the two of you last shared a stage, 16,000 Americans have died from COVID. So please be specific
+Turns: 1
+Words: 17
+Average words per turn: 17.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: HOLT
+Turns: 291
+Words: 4590
+Average words per turn: 15.77319587628866
+Sentences: 576
+Average sentences per turn: 1.9793814432989691
+Interruptions: 21
+Speaker: The 90-minute debate is divided into six segments, each 15 minutes long. We’ll explore three topic areas tonight
+Turns: 2
+Words: 96
+Average words per turn: 48.0
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 2
+Speaker: I will invite you to applaud, however, at this moment, as we welcome the candidates
+Turns: 2
+Words: 46
+Average words per turn: 23.0
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Now, look, we have the worst revival of an economy since the Great Depression. And believe me
+Turns: 2
+Words: 66
+Average words per turn: 33.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: We are in a big, fat, ugly bubble. And we better be awfully careful. And we have a Fed that’s doing political things. This Janet Yellen of the Fed. The Fed is doing political—by keeping the interest rates at this level. And believe me
+Turns: 2
+Words: 110
+Average words per turn: 55.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: But I like to remember what Michelle Obama said in her amazing speech at our Democratic National Convention
+Turns: 2
+Words: 42
+Average words per turn: 21.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Let’s talk about two important issues that were briefly mentioned by Donald, first, NATO. You know, NATO as a military alliance has something called Article 5, and basically it says this
+Turns: 2
+Words: 96
+Average words per turn: 48.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And I will tell you this, Lester
+Turns: 2
+Words: 16
+Average words per turn: 8.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And I know Donald’s trying very hard to plant doubts about it, but I hope the people out there understand
+Turns: 2
+Words: 102
+Average words per turn: 51.0
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: This debate is sponsored by the Commission on Presidential Debates. The commission has designed the format
+Turns: 2
+Words: 54
+Average words per turn: 27.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 2
+Speaker: I have major disagreements with my opponent about these issues and others that will be before the Supreme Court. But I feel that at this point in our country’s history, it is important that we not reverse marriage equality, that we not reverse Roe v. Wade, that we stand up against Citizens United, we stand up for the rights of people in the workplace, that we stand up and basically say
+Turns: 2
+Words: 16
+Average words per turn: 8.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And, you know, look, I understand that Donald’s been strongly supported by the NRA. The gun lobby’s on his side. They’re running millions of dollars of ads against me. And I regret that, because what I would like to see is for people to come together and say
+Turns: 2
+Words: 68
+Average words per turn: 34.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: You know, I’ve had the great honor of traveling across the world on behalf of our country. I’ve been to countries where governments either forced women to have abortions, like they used to do in China, or forced women to bear children, like they used to do in Romania. And I can tell you
+Turns: 2
+Words: 60
+Average words per turn: 30.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I have been for border security for years. I voted for border security in the United States Senate. And my comprehensive immigration reform plan of course includes border security. But I want to put our resources where I think they’re most needed
+Turns: 2
+Words: 30
+Average words per turn: 15.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And Donald knows a lot about this. He used undocumented labor to build the Trump Tower. He underpaid undocumented workers, and when they complained, he basically said what a lot of employers do
+Turns: 2
+Words: 12
+Average words per turn: 6.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: He has no respect for her. He has no respect for our president. And I’ll tell you what
+Turns: 2
+Words: 66
+Average words per turn: 33.0
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Your running mate, Governor Pence, pledged on Sunday that he and you—his words—”will absolutely accept the result of this election.” Today your daughter, Ivanka, said the same thing. I want to ask you here on the stage tonight
+Turns: 2
+Words: 40
+Average words per turn: 20.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: While millions have already voted, Election Day, November 8th, is just 20 days away. One thing everyone here can agree on
+Turns: 2
+Words: 50
+Average words per turn: 25.0
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: QUIJANO
+Turns: 210
+Words: 3128
+Average words per turn: 14.895238095238096
+Sentences: 336
+Average sentences per turn: 1.6
+Interruptions: 22
+Speaker: KAINE
+Turns: 376
+Words: 7050
+Average words per turn: 18.75
+Sentences: 620
+Average sentences per turn: 1.648936170212766
+Interruptions: 30
+Speaker: I’ll just say this
+Turns: 2
+Words: 104
+Average words per turn: 52.0
+Sentences: 6
+Average sentences per turn: 3.0
+Interruptions: 2
+Speaker: But I have to tell you, I just — I was listening to the avalanche of insults coming out of Senator Kaine a minute ago. KAINE
+Turns: 2
+Words: 18
+Average words per turn: 9.0
+Sentences: 2
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: But there are other parts of the world that are challenging. Let me tell you this
+Turns: 2
+Words: 104
+Average words per turn: 52.0
+Sentences: 8
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: COOPER
+Turns: 380
+Words: 5615
+Average words per turn: 14.776315789473685
+Sentences: 747
+Average sentences per turn: 1.9657894736842105
+Interruptions: 25
+Speaker: When I hear something like that, I am reminded of what my friend, Michelle Obama, advised us all
+Turns: 2
+Words: 16
+Average words per turn: 8.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Call
+Turns: 6
+Words: 6
+Average words per turn: 1.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: File
+Turns: 6
+Words: 6
+Average words per turn: 1.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 6
+Speaker: Line 2 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 3 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: Line 4 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 5 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 8 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 9 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 10 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 11 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 13 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 14 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 15 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 16 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 17 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 18 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 20 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 7
+Average sentences per turn: 1.1666666666666667
+Interruptions: 0
+Speaker: Line 22 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 23 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 24 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 25 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 26 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 29 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 30 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 31 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 32 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 33 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 34 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 37 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 38 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 39 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 40 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 41 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 46 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 47 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 50 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 53 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 54 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 55 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 60 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 63 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 64 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 65 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 66 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 67 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 74 starting with
+Turns: 6
+Words: 66
+Average words per turn: 11.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 78 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 79 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 80 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 91 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 94 starting with
+Turns: 6
+Words: 71
+Average words per turn: 11.833333333333334
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 114 starting with
+Turns: 1
+Words: 11
+Average words per turn: 11.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 119 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 121 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 122 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 123 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 134 starting with
+Turns: 1
+Words: 11
+Average words per turn: 11.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 149 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 151 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 152 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 153 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 154 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 155 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 156 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 161 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 169 starting with
+Turns: 1
+Words: 11
+Average words per turn: 11.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 176 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 177 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 180 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 181 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 184 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 185 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 186 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 191 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 192 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 193 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 198 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 199 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 202 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 203 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 210 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 211 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 212 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 213 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 214 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 215 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 216 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 217 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 218 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 221 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 224 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 225 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 230 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 231 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 237 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 238 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 239 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 240 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 241 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 242 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 244 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 245 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 247 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 248 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 249 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 250 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 253 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 254 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 255 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 256 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 257 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 258 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 259 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 264 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 265 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 266 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 267 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 268 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 275 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 276 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 277 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 278 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 279 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 280 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 283 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 284 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 285 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 290 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 291 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 292 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 293 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 294 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 300 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 301 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 308 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: Line 310 starting with
+Turns: 1
+Words: 11
+Average words per turn: 11.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 317 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 318 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 320 starting with
+Turns: 1
+Words: 11
+Average words per turn: 11.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 326 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 328 starting with
+Turns: 6
+Words: 71
+Average words per turn: 11.833333333333334
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 330 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 331 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 334 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 335 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 336 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 337 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 338 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 11
+Average sentences per turn: 1.8333333333333333
+Interruptions: 0
+Speaker: Line 341 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 11
+Average sentences per turn: 1.8333333333333333
+Interruptions: 0
+Speaker: Line 342 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 11
+Average sentences per turn: 1.8333333333333333
+Interruptions: 0
+Speaker: Line 343 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 344 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 345 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 347 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 349 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 11
+Average sentences per turn: 1.8333333333333333
+Interruptions: 0
+Speaker: Line 350 starting with
+Turns: 6
+Words: 71
+Average words per turn: 11.833333333333334
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 351 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 352 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 353 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 358 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 359 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 360 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 361 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 362 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 363 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 364 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 365 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 366 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 369 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 370 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 371 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 372 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 375 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 376 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 383 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 384 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 385 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 386 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 387 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 388 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 389 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 394 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 395 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 396 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 397 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 398 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 399 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 400 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 419 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 420 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 11
+Average sentences per turn: 1.8333333333333333
+Interruptions: 0
+Speaker: Line 425 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 430 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 431 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 432 starting with
+Turns: 6
+Words: 72
+Average words per turn: 12.0
+Sentences: 6
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 433 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 434 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 446 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 453 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 454 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 455 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 456 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 457 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 458 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 463 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 464 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 465 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 466 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 467 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 484 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 488 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 506 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 509 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 510 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 515 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 518 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 522 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 523 starting with
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Total changes made
+Turns: 4
+Words: 4
+Average words per turn: 1.0
+Sentences: 4
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Finished process in
+Turns: 4
+Words: 8
+Average words per turn: 2.0
+Sentences: 4
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 21 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 42 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 48 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 56 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 57 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 58 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 61 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 62 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 68 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 69 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 70 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 71 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 72 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 81 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 87 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 88 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 92 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 93 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 129 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 130 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 131 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 132 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 133 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 138 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 139 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 140 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 141 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 142 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 147 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 148 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 163 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 164 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 172 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 173 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 174 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 178 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 179 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 183 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 195 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 196 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 197 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 223 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 226 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 227 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 228 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 234 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 235 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 236 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 243 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 246 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 270 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 271 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 272 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 281 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 282 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 286 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 295 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 296 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 297 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 298 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 307 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 312 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 319 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 322 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 327 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 329 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 339 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 340 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 380 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 381 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 393 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 401 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 402 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 405 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 406 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 407 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 408 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 409 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 421 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 422 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 423 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 424 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 10
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Line 429 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 444 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 445 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Line 448 starting with
+Turns: 5
+Words: 60
+Average words per turn: 12.0
+Sentences: 5
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MODERATORS
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: NEWMAN
+Turns: 77
+Words: 1508
+Average words per turn: 19.584415584415584
+Sentences: 205
+Average sentences per turn: 2.6623376623376624
+Interruptions: 5
+Speaker: REYNOLDS
+Turns: 8
+Words: 678
+Average words per turn: 84.75
+Sentences: 32
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: FORD
+Turns: 58
+Words: 14969
+Average words per turn: 258.08620689655174
+Sentences: 649
+Average sentences per turn: 11.189655172413794
+Interruptions: 36
+Speaker: GANNON
+Turns: 7
+Words: 586
+Average words per turn: 83.71428571428571
+Sentences: 24
+Average sentences per turn: 3.4285714285714284
+Interruptions: 2
+Speaker: DREW
+Turns: 9
+Words: 634
+Average words per turn: 70.44444444444444
+Sentences: 28
+Average sentences per turn: 3.111111111111111
+Interruptions: 3
+Speaker: KRAFT
+Turns: 10
+Words: 1074
+Average words per turn: 107.4
+Sentences: 51
+Average sentences per turn: 5.1
+Interruptions: 6
+Speaker: MAYNARD
+Turns: 6
+Words: 506
+Average words per turn: 84.33333333333333
+Sentences: 32
+Average sentences per turn: 5.333333333333333
+Interruptions: 3
+Speaker: NELSON
+Turns: 6
+Words: 598
+Average words per turn: 99.66666666666667
+Sentences: 21
+Average sentences per turn: 3.5
+Interruptions: 2
+Speaker: FREDERICK
+Turns: 31
+Words: 658
+Average words per turn: 21.225806451612904
+Sentences: 79
+Average sentences per turn: 2.5483870967741935
+Interruptions: 3
+Speaker: FRANKEL
+Turns: 8
+Words: 890
+Average words per turn: 111.25
+Sentences: 33
+Average sentences per turn: 4.125
+Interruptions: 3
+Speaker: TREWHITT
+Turns: 7
+Words: 614
+Average words per turn: 87.71428571428571
+Sentences: 27
+Average sentences per turn: 3.857142857142857
+Interruptions: 2
+Speaker: VALERIANI
+Turns: 6
+Words: 349
+Average words per turn: 58.166666666666664
+Sentences: 13
+Average sentences per turn: 2.1666666666666665
+Interruptions: 1
+Speaker: MS. FREDERICK
+Turns: 30
+Words: 651
+Average words per turn: 21.7
+Sentences: 77
+Average sentences per turn: 2.566666666666667
+Interruptions: 3
+Speaker: MR. FRANKEL
+Turns: 8
+Words: 890
+Average words per turn: 111.25
+Sentences: 33
+Average sentences per turn: 4.125
+Interruptions: 3
+Speaker: MR. FORD
+Turns: 57
+Words: 14686
+Average words per turn: 257.64912280701753
+Sentences: 637
+Average sentences per turn: 11.175438596491228
+Interruptions: 36
+Speaker: MR. TREWHITT
+Turns: 7
+Words: 614
+Average words per turn: 87.71428571428571
+Sentences: 27
+Average sentences per turn: 3.857142857142857
+Interruptions: 2
+Speaker: MR. VALERIANI
+Turns: 6
+Words: 349
+Average words per turn: 58.166666666666664
+Sentences: 13
+Average sentences per turn: 2.1666666666666665
+Interruptions: 1
+Speaker: MS. FREDERIC
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Miscellaneous
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MR. KRAFT
+Turns: 9
+Words: 795
+Average words per turn: 88.33333333333333
+Sentences: 34
+Average sentences per turn: 3.7777777777777777
+Interruptions: 5
+Speaker: MR. MAYNARD
+Turns: 6
+Words: 506
+Average words per turn: 84.33333333333333
+Sentences: 32
+Average sentences per turn: 5.333333333333333
+Interruptions: 3
+Speaker: MR. NELSON
+Turns: 6
+Words: 598
+Average words per turn: 99.66666666666667
+Sentences: 21
+Average sentences per turn: 3.5
+Interruptions: 2
+Speaker: MR.FORD
+Turns: 1
+Words: 283
+Average words per turn: 283.0
+Sentences: 12
+Average sentences per turn: 12.0
+Interruptions: 0
+Speaker: EDWIN NEWMAN, MODERATOR
+Turns: 1
+Words: 281
+Average words per turn: 281.0
+Sentences: 20
+Average sentences per turn: 20.0
+Interruptions: 1
+Speaker: MR. REYNOLDS
+Turns: 8
+Words: 678
+Average words per turn: 84.75
+Sentences: 32
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: MR. NEWMAN
+Turns: 60
+Words: 863
+Average words per turn: 14.383333333333333
+Sentences: 141
+Average sentences per turn: 2.35
+Interruptions: 4
+Speaker: MR. GANNON
+Turns: 7
+Words: 586
+Average words per turn: 83.71428571428571
+Sentences: 24
+Average sentences per turn: 3.4285714285714284
+Interruptions: 2
+Speaker: MS. DREW
+Turns: 9
+Words: 634
+Average words per turn: 70.44444444444444
+Sentences: 28
+Average sentences per turn: 3.111111111111111
+Interruptions: 3
+Speaker: Listenership
+Turns: 1
+Words: 0
+Average words per turn: 0.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: RIDINGS
+Turns: 6
+Words: 296
+Average words per turn: 49.333333333333336
+Sentences: 15
+Average sentences per turn: 2.5
+Interruptions: 3
+Speaker: FERRARO
+Turns: 56
+Words: 11848
+Average words per turn: 211.57142857142858
+Sentences: 528
+Average sentences per turn: 9.428571428571429
+Interruptions: 32
+Speaker: WHITE
+Turns: 16
+Words: 1766
+Average words per turn: 110.375
+Sentences: 110
+Average sentences per turn: 6.875
+Interruptions: 6
+Speaker: QUARLES
+Turns: 18
+Words: 784
+Average words per turn: 43.55555555555556
+Sentences: 40
+Average sentences per turn: 2.2222222222222223
+Interruptions: 6
+Speaker: BOYD
+Turns: 20
+Words: 1010
+Average words per turn: 50.5
+Sentences: 50
+Average sentences per turn: 2.5
+Interruptions: 10
+Speaker: WIEGHART
+Turns: 28
+Words: 1578
+Average words per turn: 56.357142857142854
+Sentences: 76
+Average sentences per turn: 2.7142857142857144
+Interruptions: 5
+Speaker: MONDALE
+Turns: 179
+Words: 11190
+Average words per turn: 62.513966480446925
+Sentences: 632
+Average sentences per turn: 3.53072625698324
+Interruptions: 23
+Speaker: SAWYER
+Turns: 15
+Words: 805
+Average words per turn: 53.666666666666664
+Sentences: 44
+Average sentences per turn: 2.933333333333333
+Interruptions: 3
+Speaker: SO
+Turns: 7
+Words: 364
+Average words per turn: 52.0
+Sentences: 19
+Average sentences per turn: 2.7142857142857144
+Interruptions: 0
+Speaker: POINT
+Turns: 1
+Words: 23
+Average words per turn: 23.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: GEYER
+Turns: 9
+Words: 760
+Average words per turn: 84.44444444444444
+Sentences: 34
+Average sentences per turn: 3.7777777777777777
+Interruptions: 5
+Speaker: KALB
+Turns: 8
+Words: 535
+Average words per turn: 66.875
+Sentences: 32
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: MEMBER
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: KONDRACKE
+Turns: 1
+Words: 72
+Average words per turn: 72.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: SIMILARLY
+Turns: 4
+Words: 186
+Average words per turn: 46.5
+Sentences: 10
+Average sentences per turn: 2.5
+Interruptions: 0
+Speaker: DOROTHY S. RIDINGS
+Turns: 1
+Words: 82
+Average words per turn: 82.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 1
+Speaker: MS. RIDINGS
+Turns: 2
+Words: 77
+Average words per turn: 38.5
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: MR. WIEGHART
+Turns: 13
+Words: 679
+Average words per turn: 52.23076923076923
+Sentences: 42
+Average sentences per turn: 3.230769230769231
+Interruptions: 1
+Speaker: MR. MONDALE
+Turns: 54
+Words: 3442
+Average words per turn: 63.74074074074074
+Sentences: 182
+Average sentences per turn: 3.3703703703703702
+Interruptions: 7
+Speaker: THE PRESIDENT
+Turns: 60
+Words: 4045
+Average words per turn: 67.41666666666667
+Sentences: 220
+Average sentences per turn: 3.6666666666666665
+Interruptions: 10
+Speaker: With regard to Social Security, I hope there’ll be more time than just this minute to mention that, but I will say this
+Turns: 1
+Words: 36
+Average words per turn: 36.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MS. SAWYER
+Turns: 12
+Words: 670
+Average words per turn: 55.833333333333336
+Sentences: 35
+Average sentences per turn: 2.9166666666666665
+Interruptions: 3
+Speaker: MR. BARNES
+Turns: 10
+Words: 415
+Average words per turn: 41.5
+Sentences: 26
+Average sentences per turn: 2.6
+Interruptions: 5
+Speaker: With regard to a platform on the Supreme Court, I can only say one thing about that. I have appointed one member to the Supreme Court
+Turns: 1
+Words: 33
+Average words per turn: 33.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: So, I think that many Democrats are seeing the same thing this Democrat saw
+Turns: 1
+Words: 10
+Average words per turn: 10.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: One final point
+Turns: 1
+Words: 23
+Average words per turn: 23.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Mr. Reagan, as you saw tonight — President Reagan takes the position it will disappear by magic. It was once called voodoo economics. I wish the President would say
+Turns: 1
+Words: 45
+Average words per turn: 45.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: But we now have an economy that, for the first time — well, let’s put it this way
+Turns: 1
+Words: 45
+Average words per turn: 45.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: I think we’ve given the American people back their spirit. I think there’s an optimism in the land and a patriotism, and I think that we’re in a position once again to heed the words of Thomas Paine, who said
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: The President’s favorite question is
+Turns: 1
+Words: 34
+Average words per turn: 34.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: Note
+Turns: 2
+Words: 67
+Average words per turn: 33.5
+Sentences: 7
+Average sentences per turn: 3.5
+Interruptions: 0
+Speaker: MS. GEYER
+Turns: 8
+Words: 712
+Average words per turn: 89.0
+Sentences: 32
+Average sentences per turn: 4.0
+Interruptions: 5
+Speaker: MR. KALB
+Turns: 8
+Words: 535
+Average words per turn: 66.875
+Sentences: 32
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: AUDIENCE MEMBER
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MR. KONDRACKE
+Turns: 9
+Words: 538
+Average words per turn: 59.77777777777778
+Sentences: 31
+Average sentences per turn: 3.4444444444444446
+Interruptions: 0
+Speaker: Similarly, in Central America
+Turns: 1
+Words: 78
+Average words per turn: 78.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: But we were succeeding to the point that the Lebanese Government had been organized — if you will remember, there were the meetings in Geneva in which they began to meet with the hostile factional forces and try to put together some kind of a peace plan. We were succeeding, and that was why the terrorist acts began. There are forces there — and that includes Syria, in my mind — who don’t want us to succeed, who don’t want that kind of a peace with a dominant Lebanon, dominant over its own territory. And so, the terrorist acts began and led to the one great tragedy when they were killed in that suicide bombing of the building. Then the multilateral force withdrew for only one reason
+Turns: 1
+Words: 55
+Average words per turn: 55.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Now, with regard to having to say whether we would try to survive in the event of a nuclear war, of course we would. But let me also point out that to several parliaments around the world, in Europe and in Asia, I have made a statement to each one of them, and I’ll repeat it here
+Turns: 1
+Words: 45
+Average words per turn: 45.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I remember the night before I became Vice President. I was given the briefing and told that any time, night or day, I might be called upon to make the most fateful decision on Earth — whether to fire these atomic weapons that could destroy the human species. That lesson tells us two things
+Turns: 1
+Words: 57
+Average words per turn: 57.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: The question before you comes down to this
+Turns: 1
+Words: 39
+Average words per turn: 39.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: KEMP
+Turns: 80
+Words: 13828
+Average words per turn: 172.85
+Sentences: 736
+Average sentences per turn: 9.2
+Interruptions: 44
+Speaker: DOLE
+Turns: 218
+Words: 26901
+Average words per turn: 123.39908256880734
+Sentences: 2169
+Average sentences per turn: 9.94954128440367
+Interruptions: 46
+Speaker: TONIGHT
+Turns: 5
+Words: 257
+Average words per turn: 51.4
+Sentences: 17
+Average sentences per turn: 3.4
+Interruptions: 1
+Speaker: THINGS
+Turns: 3
+Words: 209
+Average words per turn: 69.66666666666667
+Sentences: 14
+Average sentences per turn: 4.666666666666667
+Interruptions: 0
+Speaker: MS. McAFEE
+Turns: 2
+Words: 197
+Average words per turn: 98.5
+Sentences: 13
+Average sentences per turn: 6.5
+Interruptions: 0
+Speaker: DR. BERKLEY
+Turns: 1
+Words: 42
+Average words per turn: 42.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 0
+Speaker: MR. MILLIGAN
+Turns: 3
+Words: 44
+Average words per turn: 14.666666666666666
+Sentences: 3
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: MS. KELLY
+Turns: 1
+Words: 44
+Average words per turn: 44.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: MR. DELGADO
+Turns: 2
+Words: 58
+Average words per turn: 29.0
+Sentences: 5
+Average sentences per turn: 2.5
+Interruptions: 1
+Speaker: MR. FLECK
+Turns: 1
+Words: 89
+Average words per turn: 89.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 0
+Speaker: MS. GONZALEZ
+Turns: 1
+Words: 26
+Average words per turn: 26.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: MS. JOHNSON
+Turns: 1
+Words: 31
+Average words per turn: 31.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: MS. NAUDIN
+Turns: 1
+Words: 57
+Average words per turn: 57.0
+Sentences: 7
+Average sentences per turn: 7.0
+Interruptions: 1
+Speaker: MS. SANDERS
+Turns: 1
+Words: 29
+Average words per turn: 29.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: MR. DAVID
+Turns: 2
+Words: 20
+Average words per turn: 10.0
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: MR. BURNS
+Turns: 1
+Words: 28
+Average words per turn: 28.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: MS. GIANNOTTI
+Turns: 1
+Words: 61
+Average words per turn: 61.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: MR. GOLDFARB
+Turns: 1
+Words: 40
+Average words per turn: 40.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: MS. STRATEGOS
+Turns: 2
+Words: 137
+Average words per turn: 68.5
+Sentences: 8
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: MS. O’CONNOR
+Turns: 1
+Words: 141
+Average words per turn: 141.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 0
+Speaker: MS. SIEFERT
+Turns: 3
+Words: 59
+Average words per turn: 19.666666666666668
+Sentences: 5
+Average sentences per turn: 1.6666666666666667
+Interruptions: 0
+Speaker: MR. KITE
+Turns: 2
+Words: 68
+Average words per turn: 34.0
+Sentences: 3
+Average sentences per turn: 1.5
+Interruptions: 0
+Speaker: MS. DUBE
+Turns: 1
+Words: 110
+Average words per turn: 110.0
+Sentences: 7
+Average sentences per turn: 7.0
+Interruptions: 0
+Speaker: Transcribed by
+Turns: 1
+Words: 31
+Average words per turn: 31.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Four years ago I ran for president at a time of high unemployment and rising frustration. I wanted to turn this country around with a program of opportunity for all, responsibility from all, and an American community where everybody has a role to play. I wanted a government that was smaller and less bureaucratic to help people make the most of their own lives. Four years ago you took me on faith. Now there’s a record
+Turns: 1
+Words: 20
+Average words per turn: 20.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: I have three very special people with me tonight
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: We have done the following things
+Turns: 1
+Words: 49
+Average words per turn: 49.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: 
+Turns: 1
+Words: 277
+Average words per turn: 277.0
+Sentences: 13
+Average sentences per turn: 13.0
+Interruptions: 1
+Speaker: The American people should make up their own mind. Here’s the record
+Turns: 1
+Words: 130
+Average words per turn: 130.0
+Sentences: 6
+Average sentences per turn: 6.0
+Interruptions: 0
+Speaker: KERRY
+Turns: 485
+Words: 15272
+Average words per turn: 31.48865979381443
+Sentences: 1107
+Average sentences per turn: 2.2824742268041236
+Interruptions: 56
+Speaker: NOT
+Turns: 4
+Words: 158
+Average words per turn: 39.5
+Sentences: 11
+Average sentences per turn: 2.75
+Interruptions: 1
+Speaker: SAID
+Turns: 7
+Words: 210
+Average words per turn: 30.0
+Sentences: 11
+Average sentences per turn: 1.5714285714285714
+Interruptions: 1
+Speaker: RESULT
+Turns: 4
+Words: 81
+Average words per turn: 20.25
+Sentences: 6
+Average sentences per turn: 1.5
+Interruptions: 0
+Speaker: AMERICA
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 1
+Speaker: REMEMBER
+Turns: 3
+Words: 114
+Average words per turn: 38.0
+Sentences: 13
+Average sentences per turn: 4.333333333333333
+Interruptions: 1
+Speaker: ACTION
+Turns: 1
+Words: 40
+Average words per turn: 40.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: REASON
+Turns: 3
+Words: 125
+Average words per turn: 41.666666666666664
+Sentences: 7
+Average sentences per turn: 2.3333333333333335
+Interruptions: 0
+Speaker: ALSO
+Turns: 7
+Words: 264
+Average words per turn: 37.714285714285715
+Sentences: 21
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: SECONDLY
+Turns: 1
+Words: 16
+Average words per turn: 16.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: STATEMENT
+Turns: 5
+Words: 140
+Average words per turn: 28.0
+Sentences: 8
+Average sentences per turn: 1.6
+Interruptions: 1
+Speaker: KOREA
+Turns: 6
+Words: 171
+Average words per turn: 28.5
+Sentences: 12
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: IRAQ
+Turns: 2
+Words: 61
+Average words per turn: 30.5
+Sentences: 5
+Average sentences per turn: 2.5
+Interruptions: 0
+Speaker: IFILL
+Turns: 207
+Words: 3319
+Average words per turn: 16.033816425120772
+Sentences: 328
+Average sentences per turn: 1.5845410628019323
+Interruptions: 9
+Speaker: RULES
+Turns: 8
+Words: 220
+Average words per turn: 27.5
+Sentences: 11
+Average sentences per turn: 1.375
+Interruptions: 4
+Speaker: COMPLICATED
+Turns: 4
+Words: 113
+Average words per turn: 28.25
+Sentences: 10
+Average sentences per turn: 2.5
+Interruptions: 0
+Speaker: COALITION
+Turns: 2
+Words: 45
+Average words per turn: 22.5
+Sentences: 4
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: TOO
+Turns: 11
+Words: 298
+Average words per turn: 27.09090909090909
+Sentences: 23
+Average sentences per turn: 2.090909090909091
+Interruptions: 0
+Speaker: SETTING
+Turns: 2
+Words: 44
+Average words per turn: 22.0
+Sentences: 3
+Average sentences per turn: 1.5
+Interruptions: 2
+Speaker: FACE
+Turns: 3
+Words: 116
+Average words per turn: 38.666666666666664
+Sentences: 5
+Average sentences per turn: 1.6666666666666667
+Interruptions: 0
+Speaker: MAKE
+Turns: 4
+Words: 108
+Average words per turn: 27.0
+Sentences: 7
+Average sentences per turn: 1.75
+Interruptions: 1
+Speaker: REMINDER
+Turns: 4
+Words: 80
+Average words per turn: 20.0
+Sentences: 8
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: The measurement is not
+Turns: 1
+Words: 58
+Average words per turn: 58.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: But I pledge this to you, America
+Turns: 1
+Words: 48
+Average words per turn: 48.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: We shut the loophole which has American workers actually subsidizing the loss of their own job. They just passed an expansion of that loophole in the last few days
+Turns: 1
+Words: 20
+Average words per turn: 20.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: He talks about PAYGO. I’ll tell you what PAYGO means, when you’re a senator from Massachusetts, when you’re a colleague of Ted Kennedy, pay go means
+Turns: 1
+Words: 8
+Average words per turn: 8.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And so we said
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I’m going to do those things, because that’s what’s right in America
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: The fact is that the president had an opportunity to stand up and take on China for currency manipulation. There are companies that wanted to petition the administration. They were told
+Turns: 1
+Words: 10
+Average words per turn: 10.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: What I’m saying is, is that as we promote life and promote a culture of life, surely there are ways we can work together to reduce the number of abortions
+Turns: 1
+Words: 28
+Average words per turn: 28.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: I would like to ask you
+Turns: 1
+Words: 26
+Average words per turn: 26.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Result
+Turns: 1
+Words: 25
+Average words per turn: 25.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Here’s what I do
+Turns: 1
+Words: 46
+Average words per turn: 46.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: But let me just say to America
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 1
+Speaker: And we’re of course going to have to consider the costs. But I want to warn my fellow citizens
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: People need to remember
+Turns: 1
+Words: 40
+Average words per turn: 40.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Here’s what I’ll do
+Turns: 1
+Words: 32
+Average words per turn: 32.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And thirdly, we need an earned-legalization program for people who have been here for a long time, stayed out of trouble, got a job, paid their taxes, and their kids are American. We got to start moving them toward full citizenship, out of the shadows. SCHIEFFER
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I’ve said it before, I say it again
+Turns: 1
+Words: 54
+Average words per turn: 54.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: But the best way to protect our citizens from guns is to prosecute those who commit crimes with guns. And that’s why early in my administration I called the attorney general and the U. S. attorneys and said
+Turns: 1
+Words: 33
+Average words per turn: 33.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Affirmative action
+Turns: 1
+Words: 40
+Average words per turn: 40.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And we fixed it for a reason
+Turns: 1
+Words: 34
+Average words per turn: 34.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I was taught — I went to a church school and I was taught that the two greatest commandments are
+Turns: 1
+Words: 42
+Average words per turn: 42.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And she looked at me from her hospital bed and she just looked at me and she said, “Remember
+Turns: 1
+Words: 13
+Average words per turn: 13.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Let me just make it clear
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: GIBSON
+Turns: 69
+Words: 840
+Average words per turn: 12.173913043478262
+Sentences: 110
+Average sentences per turn: 1.5942028985507246
+Interruptions: 3
+Speaker: OTIS
+Turns: 1
+Words: 31
+Average words per turn: 31.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: So I complain about that. I’ve argued that we should fully funded it. The president says I’ve changed my mind. I haven’t changed my mind
+Turns: 1
+Words: 6
+Average words per turn: 6.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: DAHLE
+Turns: 1
+Words: 52
+Average words per turn: 52.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: That’s why I said to Afghanistan
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: So I tried diplomacy, went to the United Nations. But as we learned in the same report I quoted, Saddam Hussein was gaming the oil-for-food program to get rid of sanctions. He was trying to get rid of sanctions for a reason
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Well, let me tell you straight up
+Turns: 1
+Words: 42
+Average words per turn: 42.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: BALDI
+Turns: 1
+Words: 17
+Average words per turn: 17.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Think about it
+Turns: 1
+Words: 6
+Average words per turn: 6.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: He talks about a grand idea
+Turns: 1
+Words: 16
+Average words per turn: 16.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: WASHINGTON
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: JACOBS
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: I fully understand the threat. And that’s why we’re doing what he suggested we do
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Of course, we’re paying attention to these. It’s a great question about Iran. That’s why in my speech to the Congress I said
+Turns: 1
+Words: 20
+Average words per turn: 20.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: FARLEY
+Turns: 1
+Words: 22
+Average words per turn: 22.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: BRONSING
+Turns: 1
+Words: 25
+Average words per turn: 25.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: HORSTMAN
+Turns: 1
+Words: 27
+Average words per turn: 27.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Four years ago, right here in this forum, he was asked the same question
+Turns: 1
+Words: 29
+Average words per turn: 29.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: We not only fixed Medicare and took it way out into the future, we did something that you don’t know how to do
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: LAURENT
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Now, all of that can happen, but I have to ask you to do one thing
+Turns: 1
+Words: 20
+Average words per turn: 20.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: I mean, seriously — labels don’t mean anything. What means something is
+Turns: 1
+Words: 20
+Average words per turn: 20.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: O’BRIEN
+Turns: 1
+Words: 53
+Average words per turn: 53.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: VARNER
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Now, I’m going to restore what we did in the 1990s, ladies and gentlemen
+Turns: 1
+Words: 19
+Average words per turn: 19.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: And looking around here, at this group here, I suspect there are only three people here who are going to be affected
+Turns: 1
+Words: 9
+Average words per turn: 9.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And of course he’s going to raise your taxes. You see, he’s proposed $2.2 trillion of new spending. And you say
+Turns: 1
+Words: 41
+Average words per turn: 41.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And so the fundamental question of this campaign is
+Turns: 1
+Words: 15
+Average words per turn: 15.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And third, credible
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 5
+Average sentences per turn: 5.0
+Interruptions: 0
+Speaker: HUBB
+Turns: 1
+Words: 27
+Average words per turn: 27.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: You wonder, Nikki, why it is that people don’t like us in some parts of the world. You just say
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: BARROW
+Turns: 1
+Words: 36
+Average words per turn: 36.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: FOWLER
+Turns: 1
+Words: 29
+Average words per turn: 29.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: LONG
+Turns: 1
+Words: 34
+Average words per turn: 34.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: MICHAELSON
+Turns: 1
+Words: 27
+Average words per turn: 27.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: DEGENHART
+Turns: 1
+Words: 39
+Average words per turn: 39.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And he was given a chance to vote, and he voted no. And that’s just the way it is. That’s a vote. It came right up. It’s clear for everybody to see. And as I said
+Turns: 1
+Words: 9
+Average words per turn: 9.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: GRABEL
+Turns: 1
+Words: 44
+Average words per turn: 44.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: And in a war, there’s a lot of — there’s a lot of tactical decisions that historians will look back and say
+Turns: 1
+Words: 19
+Average words per turn: 19.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: That’s why Senator Lugar says
+Turns: 1
+Words: 23
+Average words per turn: 23.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: But I’ll also have a better plan of how we’re going to deal with Iraq
+Turns: 1
+Words: 31
+Average words per turn: 31.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And yet think about where we are
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 1
+Speaker: Tonight I had a chance to discuss with you what to do to keep this economy going
+Turns: 1
+Words: 47
+Average words per turn: 47.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: The rules
+Turns: 1
+Words: 24
+Average words per turn: 24.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: Our point in this is not complicated
+Turns: 1
+Words: 10
+Average words per turn: 10.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: He said that — made mention of this global test. What John Kerry said — and it’s just as clear as day to anybody who was listening — he said
+Turns: 1
+Words: 20
+Average words per turn: 20.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And we see the result of there not being a coalition
+Turns: 1
+Words: 14
+Average words per turn: 14.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: It’s awfully hard to convey a sense of credibility to allies when you voted for the war and then you declared
+Turns: 1
+Words: 36
+Average words per turn: 36.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: We stood up and said
+Turns: 1
+Words: 12
+Average words per turn: 12.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: They have a plan for Iraq too
+Turns: 1
+Words: 4
+Average words per turn: 4.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: That is not the way to win friends and allies. You’re never going to add to the coalition with that kind of attitude. IFILL
+Turns: 1
+Words: 4
+Average words per turn: 4.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: You’ve missed a lot of key votes
+Turns: 1
+Words: 8
+Average words per turn: 8.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Here’s what’s happened
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And I want everyone to hear this, because there have been exaggerations made on the campaign trail
+Turns: 1
+Words: 16
+Average words per turn: 16.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: I want to read something you said four years ago at this very setting
+Turns: 1
+Words: 30
+Average words per turn: 30.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 1
+Speaker: (LAUGHTER) CHENEY
+Turns: 1
+Words: 37
+Average words per turn: 37.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: We have double-digit inflation in health care costs. We’ve seen the largest rise in medical costs in the last four years in the country’s history
+Turns: 1
+Words: 18
+Average words per turn: 18.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: The threats we face
+Turns: 1
+Words: 23
+Average words per turn: 23.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Here are the judgments I would make
+Turns: 1
+Words: 29
+Average words per turn: 29.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: We want to raise the active-duty forces by 40,000, double the special forces so we can find terrorists where they are, and provide the kind of support for families — health care, housing — that they deserve while their loved ones are serving and protecting us. IFILL
+Turns: 1
+Words: 7
+Average words per turn: 7.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: He is ready to be commander in chief. IFILL
+Turns: 1
+Words: 9
+Average words per turn: 9.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Now, flip-flops
+Turns: 1
+Words: 15
+Average words per turn: 15.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 1
+Speaker: They said that they were going to do something about health care in this country. And they’ve done something
+Turns: 1
+Words: 4
+Average words per turn: 4.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: This president said — I listened to him the other night at his 2000 debate saying
+Turns: 1
+Words: 8
+Average words per turn: 8.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: Here’s the truth
+Turns: 1
+Words: 16
+Average words per turn: 16.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: A reminder
+Turns: 1
+Words: 37
+Average words per turn: 37.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: I’m proud that important military figures who are supporting me in this race
+Turns: 1
+Words: 69
+Average words per turn: 69.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: And so, today, we are 90 percent of the casualties and 90 percent of the cost
+Turns: 1
+Words: 26
+Average words per turn: 26.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And so, the answer to your question is
+Turns: 1
+Words: 48
+Average words per turn: 48.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: My message to the troops is also
+Turns: 1
+Words: 26
+Average words per turn: 26.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: You know, it’s interesting. When I was in a rope line just the other day, coming out here from Wisconsin, a couple of young returnees were in the line, one active duty, one from the Guard. And they both looked at me and said
+Turns: 1
+Words: 10
+Average words per turn: 10.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: Plus, he says the cornerstone of his plan to succeed in Iraq is to call upon nations to serve. So what’s the message going to be
+Turns: 1
+Words: 27
+Average words per turn: 27.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Secondly, when we went in, there were three countries
+Turns: 1
+Words: 16
+Average words per turn: 16.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Now, we have a choice here. I’ve laid out a plan by which I think we can be successful in Iraq
+Turns: 1
+Words: 26
+Average words per turn: 26.0
+Sentences: 2
+Average sentences per turn: 2.0
+Interruptions: 0
+Speaker: So the choice for America is, you can have a plan that I’ve laid out in four points, each of which I can tell you more about or you can go to johnkerry.com and see more of it; or you have the president’s plan, which is four words
+Turns: 1
+Words: 4
+Average words per turn: 4.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: I will make a flat statement
+Turns: 1
+Words: 13
+Average words per turn: 13.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: What is your position on the whole concept of preemptive war? KERRY
+Turns: 1
+Words: 40
+Average words per turn: 40.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 0
+Speaker: Now, whether preemption is ultimately what has to happen, I don’t know yet. But I’ll tell you this
+Turns: 1
+Words: 46
+Average words per turn: 46.0
+Sentences: 3
+Average sentences per turn: 3.0
+Interruptions: 1
+Speaker: With respect to North Korea, the real story
+Turns: 1
+Words: 38
+Average words per turn: 38.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: Ask the people in the armed forces today. We’ve got Guards and Reserves who are doing double duties. We’ve got a backdoor draft taking place in America today
+Turns: 1
+Words: 35
+Average words per turn: 35.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 1
+Speaker: I know exactly what we need to do in Iraq, and my position has been consistent
+Turns: 1
+Words: 46
+Average words per turn: 46.0
+Sentences: 4
+Average sentences per turn: 4.0
+Interruptions: 0
+Speaker: Now, I’d like to come back for a quick moment, if I can, to that issue about China and the talks. Because that’s one of the most critical issues here
+Turns: 1
+Words: 2
+Average words per turn: 2.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0
+Speaker: And for all the rest of the parents in America who are wondering about their kids going to the school or anywhere else in the world, what kind of world they’re going to grow up in, let me look you in the eye and say to you
+Turns: 1
+Words: 21
+Average words per turn: 21.0
+Sentences: 1
+Average sentences per turn: 1.0
+Interruptions: 0

@@ -1,0 +1,36 @@
+================================================================================
+Time:	21:26:57		Date:	2023-06-06
+Call:	line_condenser()
+File:	all_debates/2020/preclean/preclean-2020-09-29-debate.txt
+--------------------------------------------------------------------------------
+Line 2 appended to:	Line 1
+Line 8 appended to:	Line 6
+Line 13 appended to:	Line 10
+Line 14 appended to:	Line 10
+Line 498 appended to:	Line 493
+Line 505 appended to:	Line 499
+Line 508 appended to:	Line 501
+Line 644 appended to:	Line 636
+Line 645 appended to:	Line 636
+Line 646 appended to:	Line 636
+Line 710 appended to:	Line 699
+Line 711 appended to:	Line 699
+Line 712 appended to:	Line 699
+Line 797 appended to:	Line 783
+Line 798 appended to:	Line 783
+Line 801 appended to:	Line 785
+Line 802 appended to:	Line 785
+--------------------------------------------------------------------------------
+Total changes made:	17
+Finished process in:	5.779 ms
+--------------------------------------------------------------------------------
+================================================================================
+Time:	21:30:22		Date:	2023-06-06
+Call:	line_condenser()
+File:	all_debates/2020/preclean/preclean-2020-10-07-debate.txt
+--------------------------------------------------------------------------------
+Line 244 appended to:	Line 243
+--------------------------------------------------------------------------------
+Total changes made:	1
+Finished process in:	4.440 ms
+--------------------------------------------------------------------------------

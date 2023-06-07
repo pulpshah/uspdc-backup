@@ -1,0 +1,7 @@
+import uspdc
+
+from uspdc import
+
+-> Define Class Pull
+    -> get (debates.org URL) / full scrape
+    -> 

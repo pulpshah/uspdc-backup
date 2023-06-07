@@ -1,0 +1,14 @@
+================================================================================
+Time:	03:59:14		Date:	2023-06-07
+Call:	line_condenser()
+File:	all_debates/2008/preclean/clean-2008-09-26-debate.txt
+--------------------------------------------------------------------------------
+Line 484 starting with: '2ND:00 p.m. Eastern' moved to Line 483 starting with: 'LEHRER: And that'
+Line 485 starting with: '2ND: For now,' moved to Line 483 starting with: 'LEHRER: And that'
+Line 486 starting with: '[short sentence]' moved to Line 483 starting with: 'LEHRER: And that'
+Line 977 starting with: '2ND:00 p.m. Eastern' moved to Line 973 starting with: 'LEHRER: And that'
+Line 978 starting with: '2ND: For now,' moved to Line 973 starting with: 'LEHRER: And that'
+--------------------------------------------------------------------------------
+Total changes made:	5
+Finished process in:	8.292 ms
+--------------------------------------------------------------------------------

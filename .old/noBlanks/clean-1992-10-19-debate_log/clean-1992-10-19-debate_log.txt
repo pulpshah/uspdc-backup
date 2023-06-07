@@ -1,0 +1,17 @@
+================================================================================
+Time:	03:59:14		Date:	2023-06-07
+Call:	line_condenser()
+File:	all_debates/1992/preclean/clean-1992-10-19-debate.txt
+--------------------------------------------------------------------------------
+Line 407 starting with: '8:30 to 9,' moved to Line 406 starting with: 'PEROT: To the'
+Line 408 starting with: '8: Now, the' moved to Line 406 starting with: 'PEROT: To the'
+Line 409 starting with: '8: Now, you' moved to Line 406 starting with: 'PEROT: To the'
+Line 410 starting with: '8: Then the' moved to Line 406 starting with: 'PEROT: To the'
+Line 411 starting with: '8: The president' moved to Line 406 starting with: 'PEROT: To the'
+Line 412 starting with: '8: And, finally,' moved to Line 406 starting with: 'PEROT: To the'
+Line 413 starting with: '8: FINALLY, TO' moved to Line 406 starting with: 'PEROT: To the'
+Line 414 starting with: '8: To the' moved to Line 406 starting with: 'PEROT: To the'
+--------------------------------------------------------------------------------
+Total changes made:	8
+Finished process in:	4.929 ms
+--------------------------------------------------------------------------------

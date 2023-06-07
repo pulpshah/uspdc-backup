@@ -1,0 +1,11 @@
+1. extract from urls
+2. #content-sm > p:nth-child(10) (beginning of info for 1 debate)
+3. #content-sm > p:nth-child(18)
+4. #content-sm > table:nth-child(20) (main info found here)
+
+main info debate 2: #content-sm > table:nth-child(26)
+
+
+
+
+USPDC: US Presidential Debate Corpus
