@@ -1,6 +1,0 @@
-Number of debates: 1
-Total unique speakers: 0
-Total words: 0
-Total words (no speaker names or insertions): 0
-Total interruptions: 0
-Most common words in all debates: []
