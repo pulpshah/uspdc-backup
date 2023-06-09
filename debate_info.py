@@ -1,4 +1,6 @@
-a2020 = {
+debate_info = []
+
+s292020 = {
   "Debate": "General Election Presidential Debate",
   "Participants": ["Donald J. Trump (R)", "Joseph R. Biden (D)"],
   "Date": "September 29, 2020",
@@ -12,7 +14,7 @@ a2020 = {
   "Format": "Six 15-minute segments, each dedicated to a topic announced in advance.",
 }
 
-b2020 = {
+o72020 = {
   "Debate": "Vice Presidential Debate",
   "Participants": ["Mike Pence (R)", "Kamala Harris (D)"],
   "Date": "October 7, 2020",
@@ -26,7 +28,7 @@ b2020 = {
   "Format": "Nine 10-minute segments, each dedicated to a topic announced in advance.",
 }
 
-c2020 = {
+o222020 = {
   "Debate": "General Election Presidential Debate",
   "Participants": ["Donald J. Trump (R)", "Joseph R. Biden (D)"],
   "Date": "October 22, 2020",
@@ -40,7 +42,9 @@ c2020 = {
   "Format": "Six 15-minute segments, each dedicated to a topic announced in advance.",
 }
 
-a2016 = {
+all2020 = [s292020, o72020, o222020]
+
+s262016 = {
   "Debate": "General Election Presidential Debate",
   "Participants": ["Hillary Clinton (D)", "Donald J. Trump (R)"],
   "Date": "September 26, 2016",
@@ -54,7 +58,7 @@ a2016 = {
   "Format": "90-minute debate with candidates standing at podiums. Divided into six time segments of approximately 15 minutes, with topics selected and announced beforehand by the moderator. Each segment opened with a question, after which each candidate had two minutes to respond. The moderator used the balance of the time in the segment for a discussion of the topic.",
 }
 
-b2016 = {
+o42016 = {
   "Debate": "Vice Presidential Debate",
   "Participants": ["Tim Kaine (D)", "Mike Pence (R)"],
   "Date": "October 4, 2016",
@@ -68,8 +72,7 @@ b2016 = {
   "Format": "90-minute debate with candidates seated at table with moderator. Divided into nine segments of approximately 10 minutes each. Each segment opened with a question, after which each candidate had two minutes to respond. The moderator used the balance of the time in the segment for a discussion of the topic.",
 }
 
-
-c2016 = {
+o92016 = {
   "Debate": "General Election Presidential Debate",
   "Participants": ["Hillary Clinton (D)", "Donald J. Trump (R)"],
   "Date": "October 9, 2016",
@@ -83,7 +86,7 @@ c2016 = {
   "Format": "90-minute town hall meeting debate. Half of the questions were posed directly to the candidates by citizen participants and the other half were posed by the moderator based on topics of broad public interest as reflected in social media and other sources. The candidates had two minutes to respond and there was an additional minute for the moderator to facilitate further discussion. The town meeting participants were uncommitted voters selected by the Gallup Organization.",
 }
 
-d2016 = {
+o192016 = {
   "Debate": "General Election Presidential Debate",
   "Participants": ["Hillary Clinton (D)", "Donald J. Trump (R)"],
   "Date": "October 19, 2016",
@@ -97,7 +100,9 @@ d2016 = {
   "Format": "90-minute debate with candidates standing at podiums. Divided into six time segments of approximately 15 minutes, with topics selected and announced beforehand by the moderator. Each segment opened with a question, after which each candidate had two minutes to respond.The moderator used the balance of the time in the segment for a discussion of the topic.",
 }
 
-a2012 = {
+all2016 = [s262016, o42016, o92016, o192016]
+
+o32012 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Barack Obama (D)", "Mitt Romney (R)"],
     "date": "October 3, 2012",
@@ -111,7 +116,7 @@ a2012 = {
     "format": "90-minute debate with candidates standing at podiums. Divided into six time segments of approximately 15 minutes, with topics selected and announced beforehand by the moderator. Each segment opened with a question, after which each candidate had two minutes to respond. The moderator used the balance of the time in the segment for a discussion of the topic.",
 }
 
-b2012 = {
+o112012 = {
     "debate": "Vice Presidential Debate",
     "participants": ["Joe Biden (D)", "Paul Ryan (R)"],
     "date": "October 11, 2012",
@@ -125,7 +130,7 @@ b2012 = {
     "format": "90-minute debate with candidates seated at table with moderator. Divided into nine segments of approximately 10 minutes each. Each segment opened with a question, after which each candidate had two minutes to respond. The moderator used the balance of the time in the segment for a discussion of the topic.",
 }
 
-c2012 = {
+o162012 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Barack Obama (D)", "Mitt Romney (R)"],
     "date": "October 16, 2012",
@@ -139,7 +144,7 @@ c2012 = {
     "format": "90-minute town hall meeting debate. Candidates questioned by uncommitted voters from Nassau County, NY identified by the Gallup Organization. Candidates each had two minutes to respond, and an additional two minutes for the moderator to facilitate a discussion.",
 }
 
-d2012 = {
+o222012 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Barack Obama (D)", "Mitt Romney (R)"],
     "date": "October 22, 2012",
@@ -153,7 +158,9 @@ d2012 = {
     "format": "90-minute debate with candidates seated at table with moderator. Divided into six time segments of approximately 15 minutes, with topics selected and announced beforehand by the moderator. Each segment opened with a question, after which each candidate had two minutes to respond. The moderator used the balance of the time in the segment for a discussion of the topic.",
 }
 
-a2008 = {
+all2012 = [o32012, o112012, o162012, o222012]
+
+s262008 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John McCain (R)", "Barack Obama (D)"],
     "date": "September 26, 2008",
@@ -167,7 +174,7 @@ a2008 = {
     "format": "90-minute debate with candidates standing at podiums. Candidates questioned in turn with two-minute responses, 90-second rebuttals and, at moderator’s discretion, discussion extensions of one minute.",
 }
 
-b2008 = {
+o22008 = {
     "debate": "Vice Presidential Debate",
     "participants": ["Joe Biden (D)", "Sarah Palin (R)"],
     "date": "October 2, 2008",
@@ -181,7 +188,7 @@ b2008 = {
     "format": "90-minute debate with candidates standing at podiums. Candidates questioned in turn with 90-second responses, followed by two minutes of open discussion for each question. Ninety second closing statements.",
 }
 
-c2008 = {
+o72008 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John McCain (R)", "Barack Obama (D)"],
     "date": "October 7, 2008",
@@ -195,7 +202,7 @@ c2008 = {
     "format": "90-minute town hall meeting debate. Candidates questioned by uncommitted voters identified by the Gallup Organization. In addition, moderator has discretion to include questions submitted online. Candidates questioned in turn with two-minute responses, followed by one-minute open discussion for each question.",
 }
 
-d2008 = {
+o152008 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John McCain (R)", "Barack Obama (D)"],
     "date": "October 15, 2008",
@@ -209,7 +216,10 @@ d2008 = {
     "format": "90-minute debate with candidates seated at table with moderator. Candidates questioned in turn with two-minute responses, followed by five minutes of open discussion for each question.",
 }
 
-a2004 = {
+all2008 = [s262008, o22008, o72008, o152008]
+
+
+s302004 = {
     "debate": "General Election Presidential Debate",
     "participants": ["George W. Bush (R)", "John F. Kerry (D)"],
     "date": "September 30, 2004",
@@ -223,7 +233,7 @@ a2004 = {
     "format": "90-minute debate with candidates standing at podiums. Candidates questioned in turn with two-minute responses, 90-second rebuttals and, at moderator’s discretion, discussion extensions of one minute.",
 }
 
-b2004 ={
+o52004 ={
     "debate": "Vice Presidential Debate",
     "participants": ["Dick Cheney (R)", "John Edwards (D)"],
     "date": "October 5, 2004",
@@ -237,7 +247,7 @@ b2004 ={
     "format": "90-minute debate with candidates seated at a table with the moderator. Candidates questioned in turn with two-minute responses, 90-second rebuttals and, at moderator’s discretion, discussion extensions of one minute.",
 }
 
-c2004 = {
+o82004 = {
     "debate": "General Election Presidential Debate",
     "participants": ["George W. Bush (R)", "John F. Kerry (D)"],
     "date": "October 8, 2004",
@@ -251,7 +261,7 @@ c2004 = {
     "format": "90-minute town hall meeting debate. Candidates questioned by uncommitted voters identified by the Gallup Organization. Two-minute responses, 90-second rebuttals and, at moderator’s discretion, discussion extensions of one minute.",
 }
 
-d2004 = {
+o132004 = {
     "debate": "General Election Presidential Debate",
     "participants": ["George W. Bush (R)", "John F. Kerry (D)"],
     "date": "October 13, 2004",
@@ -265,21 +275,10 @@ d2004 = {
     "format": "90-minute debate with candidates standing at podiums. Candidates questioned in turn with two-minute responses, 90-second rebuttals and, at moderator’s discretion, discussion extensions of one minute.",
 }
 
-a2000 = {
-    "debate": "Vice Presidential Debate",
-    "participants": ["Joe Lieberman (D)", "Dick Cheney (R)"],
-    "date": "October 5, 2000",
-    "location": "Centre College",
-    "city": "Danville, KY",
-    "time": "9:00 - 10:30 p.m. Eastern",
-    "sponsor": "Commission on Presidential Debates",
-    "moderator": "Bernard Shaw, CNN",
-    "topics": "No specific topics",
-    "viewership": "28.5 million (Data provided by Nielsen Media Research)",
-    "format": "Candidates seated at table with moderator. Two minute responses, one minute rebuttals; open discussion for remaining time.",
-}
+all2004 = [s302004, o52004, o82004, o132004]
 
-b2000 = {
+
+o32000 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Al Gore (D)", "George W. Bush (R)"],
     "date": "October 3, 2000",
@@ -293,9 +292,21 @@ b2000 = {
     "format": "Candidates seated at table with moderator. Two minute responses, one minute rebuttals; open discussion for remaining time.",
 }
 
+o52000 = {
+    "debate": "Vice Presidential Debate",
+    "participants": ["Joe Lieberman (D)", "Dick Cheney (R)"],
+    "date": "October 5, 2000",
+    "location": "Centre College",
+    "city": "Danville, KY",
+    "time": "9:00 - 10:30 p.m. Eastern",
+    "sponsor": "Commission on Presidential Debates",
+    "moderator": "Bernard Shaw, CNN",
+    "topics": "No specific topics",
+    "viewership": "28.5 million (Data provided by Nielsen Media Research)",
+    "format": "Candidates seated at table with moderator. Two minute responses, one minute rebuttals; open discussion for remaining time.",
+}
 
-
-c2000 = {
+o112000 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Al Gore (D)", "George W. Bush (R)"],
     "date": "October 11, 2000",
@@ -309,7 +320,7 @@ c2000 = {
     "format": "Candidates seated at table with moderator. Two minute responses, one minute rebuttals; open discussion for remaining time.",
 }
 
-d2000 = {
+o172000 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Al Gore (D)", "George W. Bush (R)"],
     "date": "October 17, 2000",
@@ -322,7 +333,10 @@ d2000 = {
     "viewership": "37.7 million (Data provided by Nielsen Media Research)",
 }
 
-a1996 ={
+all2000 = [o52000, o32000, o112000, o172000]
+
+
+o61996 ={
     "debate": "General Election Presidential Debate",
     "participants": ["Bill Clinton (D)", "Bob Dole (R)"],
     "date": "October 6, 1996",
@@ -334,7 +348,7 @@ a1996 ={
     "viewership": "46.1 million (Data provided by Nielsen Media Research)",
 }
 
-b1996 = {
+o91996 = {
     "debate": "Vice Presidential Debate",
     "participants": ["Al Gore (D)", "Jack Kemp (R)"],
     "date": "October 9, 1996",
@@ -346,7 +360,7 @@ b1996 = {
     "viewership": "26.6 million (Data provided by Nielsen Media Research)",
 }
 
-c1996 = {
+o161996 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Bill Clinton (D)", "Bob Dole (R)"],
     "date": "October 16, 1996",
@@ -358,7 +372,9 @@ c1996 = {
     "viewership": "36.3 million (Data provided by Nielsen Media Research)",
 }
 
-a1992 = {
+all1996 = [o61996, o91996, o161996]
+
+o111992 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Bill Clinton (D)", "George Bush (R)", "Ross Perot (I)"],
     "date": "October 11, 1992",
@@ -371,7 +387,20 @@ a1992 = {
     "viewership": "62.4 million (Data provided by Nielsen Media Research)",
 }
 
-b1992 = {
+o131992 = {
+    "debate": "Vice Presidential Debate",
+    "participants": ["Al Gore (D), United States Senator (TN)", "Dan Quayle (R), Vice President", "James Stockdale (I), Retired Admiral"],
+    "date": "October 13, 1992",
+    "location": "Theater for the Arts, Georgia Tech",
+    "city": "Atlanta, GA",
+    "time": "7:00 – 8:30 p.m. Eastern",
+    "sponsor": "Commission on Presidential Debates",
+    "moderator": "Hal Bruno, ABC",
+    "viewership": "51.2 million (Data provided by Nielsen Media Research)",
+    "format": "Two minute opening statements; issue presented to candidates with one minute, 15 seconds to respond; five minute discussion period about same topic followed; two minute closing statements."
+}
+
+o151992 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Bill Clinton (D)", "George Bush (R)", "Ross Perot (I)"],
     "date": "October 15, 1992",
@@ -384,7 +413,7 @@ b1992 = {
     "viewership": "69.9 million (Data provided by Nielsen Media Research)",
 }
 
-c1992 = {
+o191992 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Bill Clinton (D)", "George Bush (R)", "Ross Perot (I)"],
     "date": "October 19, 1992",
@@ -397,7 +426,9 @@ c1992 = {
     "viewership": "66.9 million (Data provided by Nielsen Media Research)",
 }
 
-a1988 = {
+all1992 = [o111992, o131992, o151992, o191992]
+
+s251988 = {
     "debate": "General Election Presidential Debate",
     "participants": ["George Bush (R)", "Michael Dukakis (D)"],
     "date": "September 25, 1988",
@@ -410,7 +441,7 @@ a1988 = {
     "viewership": "65.1 million (Data provided by Nielsen Media Research)",
 }
 
-b1988 = {
+o51988 = {
     "debate": "Vice Presidential Debate",
     "participants": ["Dan Quayle (R)", "Lloyd Bentsen (D)"],
     "date": "October 5, 1988",
@@ -423,7 +454,7 @@ b1988 = {
     "viewership": "46.9 million (Data provided by Nielsen Media Research)",
 }
 
-c1988 = {
+o131988 = {
     "debate": "General Election Presidential Debate",
     "participants": ["George Bush (R)", "Michael Dukakis (D)"],
     "date": "October 13, 1988",
@@ -436,10 +467,10 @@ c1988 = {
     "viewership": "67.3 million (Data provided by Nielsen Media Research)",
 }
 
+all1988 = [s251988, o51988, o131988]
 
 
-
-a1984 = {
+o71984 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Ronald Reagan (R)", "Walter Mondale (D)"],
     "date": "October 7, 1984",
@@ -452,7 +483,7 @@ a1984 = {
     "viewership": "65.1 million (Data provided by Nielsen Media Research)",
 }
 
-b1984 = {
+o111984 = {
     "debate": "Vice Presidential Debate",
     "participants": ["George Bush (R)", "Geraldine Ferraro (D)"],
     "date": "October 11, 1984",
@@ -465,7 +496,7 @@ b1984 = {
     "viewership": "56.7 million (Data provided by Nielsen Media Research)",
 }
 
-c1984 = {
+o211984 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Ronald Reagan (R)", "Walter Mondale (D)"],
     "date": "October 21, 1984",
@@ -478,7 +509,9 @@ c1984 = {
     "viewership": "67.3 million (Data provided by Nielsen Media Research)",
 }
 
-a1980 = {
+all1984 = [o71984, o111984, o211984]
+
+s211980 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Ronald Reagan (R)", "John Anderson (I)"],
     "date": "September 21, 1980",
@@ -491,7 +524,7 @@ a1980 = {
     "viewership": "No data available",
 }
 
-b1980 = {
+o281980 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Jimmy Carter (D)", "Ronald Reagan (R)"],
     "date": "October 28, 1980",
@@ -504,7 +537,9 @@ b1980 = {
     "viewership": "80.6 million (Data provided by Nielsen Media Research)",
 }
 
-a1976 = {
+all1980 = [s211980, o281980]
+
+s231976 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Jimmy Carter (D)", "Gerald Ford (R)"],
     "date": "September 23, 1976",
@@ -517,7 +552,7 @@ a1976 = {
     "viewership": "69.7 million (Data provided by Nielsen Media Research)",
 }
 
-b1976 = {
+o61976 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Jimmy Carter (D)", "Gerald Ford (R)"],
     "date": "October 6, 1976",
@@ -530,7 +565,10 @@ b1976 = {
     "viewership": "63.9 million (Data provided by Nielsen Media Research)",
 }
 
-c1976 = {
+"""
+## excluded because transcript is not available
+
+o151976 = {
     "debate": "Vice Presidential Debate",
     "participants": ["Walter Mondale (D)", "Bob Dole (R)"],
     "date": "October 15, 1976",
@@ -541,9 +579,9 @@ c1976 = {
     "moderator": "James Hoge, Chicago Sun Times",
     "topics": "Domestic and economic policies; foreign and defense issues",
     "viewership": "43.2 million (Data provided by Nielsen Media Research)",
-}
+}"""
 
-d1976 = {
+o221976 = {
     "debate": "General Election Presidential Debate",
     "participants": ["Jimmy Carter (D)", "Gerald Ford (R)"],
     "date": "October 22, 1976",
@@ -555,7 +593,10 @@ d1976 = {
     "viewership": "62.7 million (Data provided by Nielsen Media Research)",
 }
 
-a1960 = {
+all1976 = [s231976, o61976, o221976]
+
+
+s261960 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John F. Kennedy (D)", "Richard M. Nixon (R)"],
     "date": "September 26, 1960",
@@ -568,7 +609,7 @@ a1960 = {
     "viewership": "66.4 million",
 }
 
-b1960 = {
+o71960 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John F. Kennedy (D)", "Richard M. Nixon (R)"],
     "date": "October 7, 1960",
@@ -580,7 +621,7 @@ b1960 = {
     "viewership": "61.9 million",
 }
 
-c1960 = {
+o131960 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John F. Kennedy (D)", "Richard M. Nixon (R)"],
     "date": "October 13, 1960",
@@ -591,7 +632,7 @@ c1960 = {
     "viewership": "63.7 million",
 }
 
-d1960 = {
+o211960 = {
     "debate": "General Election Presidential Debate",
     "participants": ["John F. Kennedy (D)", "Richard M. Nixon (R)"],
     "date": "October 21, 1960",
@@ -603,51 +644,3 @@ d1960 = {
     "topics": "Foreign affairs",
     "viewership": "60.4 million",
 }
-
-debate_info = []
-
-debate_info.append(a2020)
-debate_info.append(b2020)
-debate_info.append(c2020)
-debate_info.append(a2016)
-debate_info.append(b2016)
-debate_info.append(c2016)
-debate_info.append(d2016)
-debate_info.append(a2012)
-debate_info.append(b2012)
-debate_info.append(c2012)
-debate_info.append(d2012)
-debate_info.append(a2008)
-debate_info.append(b2008)
-debate_info.append(c2008)
-debate_info.append(d2008)
-debate_info.append(a2004)
-debate_info.append(b2004)
-debate_info.append(c2004)
-debate_info.append(d2004)
-debate_info.append(a2000)
-debate_info.append(b2000)
-debate_info.append(c2000)
-debate_info.append(d2000)
-debate_info.append(a1996)
-debate_info.append(b1996)
-debate_info.append(c1996)
-debate_info.append(a1992)
-debate_info.append(b1992)
-debate_info.append(c1992)
-debate_info.append(a1988)
-debate_info.append(b1988)
-debate_info.append(c1988)
-debate_info.append(a1984)
-debate_info.append(b1984)
-debate_info.append(c1984)
-debate_info.append(a1980)
-debate_info.append(b1980)
-debate_info.append(a1976)
-debate_info.append(b1976)
-debate_info.append(c1976)
-debate_info.append(d1976)
-debate_info.append(a1960)
-debate_info.append(b1960)
-debate_info.append(c1960)
-debate_info.append(d1960)

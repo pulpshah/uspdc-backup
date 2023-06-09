@@ -30,6 +30,8 @@ Successfully scraped https://www.debates.org/debate-history/2008-debates/
 Saved info content as all_debates_raw/2008/raw/raw-info.txt
 Successfully scraped https://www.debates.org/voter-education/debate-transcripts/2008-debate-transcript/
 Saved transcript content as all_debates_raw/2008/raw/2008-09-26-debate-raw.txt
+Successfully scraped https://www.debates.org/voter-education/debate-transcripts/2008-debate-transcript-2/
+Saved transcript content as all_debates_raw/2008/raw/2008-10-02-debate-raw.txt
 Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-7-2008-debate-transcrip/
 Saved transcript content as all_debates_raw/2008/raw/2008-10-07-debate-raw.txt
 Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-15-2008-debate-transcript/
@@ -68,6 +70,10 @@ Successfully scraped https://www.debates.org/voter-education/debate-transcripts/
 Saved transcript content as all_debates_raw/1992/raw/1992-10-11-debate-raw.txt
 Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-11-1992-second-half-debate-transcript/
 Saved transcript content as all_debates_raw/1992/raw/1992-10-11-debate-raw.txt
+Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-15-1992-first-half-debate-transcript/
+Saved transcript content as all_debates_raw/1992/raw/1992-10-15-debate-raw.txt
+Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-15-1992-second-half-debate-transcript/
+Saved transcript content as all_debates_raw/1992/raw/1992-10-15-debate-raw.txt
 Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-13-1992-debate-transcript/
 Saved transcript content as all_debates_raw/1992/raw/1992-10-13-debate-raw.txt
 Successfully scraped https://www.debates.org/voter-education/debate-transcripts/october-19-1992-debate-transcript/

@@ -52,6 +52,9 @@ raw-info.txt
 raw-info.txt
 	total number of sentences: 2
 	total number of words: 74
+1992-10-15-debate-raw.txt
+	total number of sentences: 1194
+	total number of words: 21628
 1992-10-13-debate-raw.txt
 	total number of sentences: 992
 	total number of words: 18808
@@ -59,8 +62,8 @@ raw-info.txt
 	total number of sentences: 8
 	total number of words: 563
 1992-10-11-debate-raw.txt
-	total number of sentences: 397
-	total number of words: 7885
+	total number of sentences: 1019
+	total number of words: 19834
 1992-10-19-debate-raw.txt
 	total number of sentences: 1133
 	total number of words: 21952
@@ -70,6 +73,9 @@ raw-info.txt
 raw-info.txt
 	total number of sentences: 13
 	total number of words: 555
+2008-10-02-debate-raw.txt
+	total number of sentences: 995
+	total number of words: 20596
 2008-10-07-debate-raw.txt
 	total number of sentences: 934
 	total number of words: 19528
@@ -175,6 +181,5 @@ raw-info.txt
 2004-09-30-debate-raw.txt
 	total number of sentences: 1099
 	total number of words: 18371
-
-total number of raw debate transcript files created: 43
+total number of raw debate transcript files created: 45
 total number of raw debate info files created: 16
