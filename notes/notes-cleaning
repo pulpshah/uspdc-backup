@@ -1,8 +1,7 @@
-1. uniform line heads -> "[name]: "
+1. uniform line heads -> "[name]: " \xa0 (non breaking space)
 2. remove any headers/footers
 3. handle blank lines
 4. handle elipsses (…) or (. . .) ->
 5. handle insertions (applause) [crosstalk] (interruption)
 6. uniform terminal points (.) or (?) or (!) or (-)
 7. separate speech handling
-]

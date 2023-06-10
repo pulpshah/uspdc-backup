@@ -1,0 +1,48 @@
+{
+    "timestamp": "2023-06-09T04:38:59.737173",
+    "original_counts": {
+        "number_of_speaker_turns": 219,
+        "total_number_of_sentences": 1099,
+        "total_number_of_words": 17834,
+        "number_of_colons": 221,
+        "number_of_ellipses": 0,
+        "number_of_dashes": 70,
+        "number_of_quotes": 0,
+        "number_of_apostrophes": 0,
+        "number_of_non_breaking_spaces": 0,
+        "number_of_regular_spaces": 17363,
+        "number_of_blank_lines": 0,
+        "number_of_parentheses": 122,
+        "number_of_brackets": 0
+    },
+    "new_counts": {
+        "number_of_speaker_turns": 219,
+        "total_number_of_sentences": 1105,
+        "total_number_of_words": 17834,
+        "number_of_colons": 221,
+        "number_of_ellipses": 6,
+        "number_of_dashes": 70,
+        "number_of_quotes": 20,
+        "number_of_apostrophes": 712,
+        "number_of_non_breaking_spaces": 0,
+        "number_of_regular_spaces": 17363,
+        "number_of_blank_lines": 0,
+        "number_of_parentheses": 122,
+        "number_of_brackets": 0
+    },
+    "changes": {
+        "number_of_speaker_turns": 0,
+        "total_number_of_sentences": 6,
+        "total_number_of_words": 0,
+        "number_of_colons": 0,
+        "number_of_ellipses": 6,
+        "number_of_dashes": 0,
+        "number_of_quotes": 20,
+        "number_of_apostrophes": 712,
+        "number_of_non_breaking_spaces": 0,
+        "number_of_regular_spaces": 0,
+        "number_of_blank_lines": 0,
+        "number_of_parentheses": 0,
+        "number_of_brackets": 0
+    }
+}

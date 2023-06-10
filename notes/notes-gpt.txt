@@ -1,0 +1,15 @@
+User
+adjust the function so it can take a number of optional inputs.
+the first one is what line to start one "startline", optional parameter 2 is "endline" ,
+3 is "startturn" and 4 is "endturn", 5 is "runcount" which decides how many times to be run,
+must be int. if value is passed to startline, startturn must be false.
+if value is passed to endturn, endline must be false - and all the other logical basics -
+does this make sense to you?
+startline and endturn can be passed together.
+runcount can be passed as long as both start- and end- type parameters are not passed at the same time,
+meaning by itself and in combination with others. do you understand.
+i want it to index the transcript to run the prompts on.
+it allows me to be specific, and also allows me to be care and test in bunches
+
+
+0.37 at beginning of full run
