@@ -13,3 +13,5 @@ it allows me to be specific, and also allows me to be care and test in bunches
 
 
 0.37 at beginning of full run
+
+5.99 epl-v3 full run with prev context + no error handling (incomplete)

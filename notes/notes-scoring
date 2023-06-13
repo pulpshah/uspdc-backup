@@ -1,0 +1,5 @@
+# base scores:
+# complete sentences + 1
+# words + 1 (incl. stopwords)
+# defined words, unique + 1 (excl. stopwords)
+# named entities, unique + 1
