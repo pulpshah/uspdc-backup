@@ -85,22 +85,30 @@ class TranscriptProcessor:
 
         default_values = {
         'relevancy': 0,
+        
         'turn_topic': 'empty',
+        
         'word_count_points': 0,
         'sentence_count_points': 0,
         'named_entity_count_points': 0,
         'named_entities': 'empty',
         'bonus_word_points': 0,
         'bonus_word_words': 'empty',
-        'base_score': 0.0,
-        'ethos_score': 0.0, # change
-        'pathos_score': 0.0, # change
-        'logos_score': 0.0, # change
+
+        'ethos_score': 0.0,
+        'pathos_score': 0.0,
+        'logos_score': 0.0,
         'E_Expl': 'empty',
+        'E_Clauses': 'empty',
         'P_Expl': 'empty',
+        'P_Clauses': 'empty',
         'L_Expl': 'empty',
+        'L_Clauses': 'empty',
+        
+        'base_score': 0.0,
         'epl_multiplier': 0.0,
         'total_turn_score': 0.0,
+        
         'cumulative_speaker_base_score': 0.0,
         'cumulative_speaker_total_score': 0.0,
         }
@@ -299,7 +307,7 @@ class GPTConcurrentRequester:
         if not row['content']: 
             return "Error: A current sentence is required."
 
-        content = f"Evaluate the following snippet for Ethos (E), Pathos (P), and Logos (L) (Scale: 0.0 - 9.9) and provide a 1 sentence explanation. Also tell me exactly which clauses correlate most strongly to Ethos/Pathos/Logos. [Snippet: \'{row['content']}\'] Return only a JSON object in this schema: {{E: x.x, P: y.y, L: z.z, E_Expl: string, P_Expl:, string L_Expl: string, E_clauses: dict, P_clauses: dict, L_clauses: dict}}."
+        content = f"Evaluate the following snippet for Ethos, Pathos, and Logos on a scale feom 1.0 - 9.9 and provide a 1 sentence explanation for each. Also tell me exactly which clauses correlate most strongly to Ethos/Pathos/Logos. [Snippet: \'{row['content']}\'] Return only a JSON object in this schema: {{E: x.x, P: y.y, L: z.z, E_Expl: string, P_Expl:, string L_Expl: string, E_Clauses: dict, P_Clauses: dict, L_Clauses: dict}}."
 
         prompt = openai.ChatCompletion.create(
             model="gpt-4",
@@ -333,12 +341,16 @@ class GPTConcurrentRequester:
                 file.write(f"{idx}: {response}\n")
 
     def update_dataframe_with_parsed_content(self, parsed_content, idx):
-        # Update the dataframe with the parsed content
-        self.df.loc[idx, 'ethos_score'] = parsed_content['E']
-        self.df.loc[idx, 'pathos_score'] = parsed_content['P']
-        self.df.loc[idx, 'logos_score'] = parsed_content['L']
-        self.df.loc[idx, 'E_Expl'] = parsed_content['E_Expl']
-        self.df.loc[idx, 'P_Expl'] = parsed_content['P_Expl']
-        self.df.loc[idx, 'L_Expl'] = parsed_content['L_Expl']
-        
-        self.scoreboard_calculator.update_scoreboard()
+        if parsed_content:
+            self.df.loc[idx, 'ethos_score'] = parsed_content['E']
+            self.df.loc[idx, 'pathos_score'] = parsed_content['P']
+            self.df.loc[idx, 'logos_score'] = parsed_content['L']
+            self.df.loc[idx, 'E_Expl'] = parsed_content['E_Expl']
+            self.df.loc[idx, 'E_Clauses'] = json.dumps(parsed_content['E_Clauses']) # Convert dict to string
+            self.df.loc[idx, 'P_Expl'] = parsed_content['P_Expl']
+            self.df.loc[idx, 'P_Clauses'] = json.dumps(parsed_content['P_Clauses']) # Convert dict to string
+            self.df.loc[idx, 'L_Expl'] = parsed_content['L_Expl']
+            self.df.loc[idx, 'L_Clauses'] = json.dumps(parsed_content['L_Clauses']) # Convert dict to string
+
+            self.df.loc[idx, 'epl_multiplier'] = self.scoreboard_calculator.calc_epl_multiplier(self.df.loc[idx])
+            self.df.loc[idx, 'total_turn_score'] = self.scoreboard_calculator.calc_total_turn_score(self.df.loc[idx])

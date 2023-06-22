@@ -1,0 +1,147 @@
+25: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 1.0,\n  \"P\": 1.0,\n  \"L\": 1.0,\n  \"E_Expl\": \"No ethos since it is a simple call for the speaker.\",\n  \"P_Expl\": \"No pathos since the statement lacks any emotional appeal.\",\n  \"L_Expl\": \"No logos since it is merely a directive without a rational argument.\",\n  \"E_clauses\": {},\n  \"P_clauses\": {},\n  \"L_clauses\": {}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412083,
+  "id": "chatcmpl-7U7Fr4r7BNjPx1cqfNk9lEsUyhr0X",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 156,
+    "total_tokens": 263
+  }
+}
+23: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.2,\n  \"P\": 2.5,\n  \"L\": 7.5,\n  \"E_Expl\": \"The speaker establishes authority by addressing Senator McCain directly and referencing previous statements.\",\n  \"P_Expl\": \"Minimal emotional appeal as the main focus is on discussing policy differences.\",\n  \"L_Expl\": \"The use of clear, straightforward language and structured format demonstrates logical reasoning.\",\n  \"E_clauses\": {\n    \"1\": \"Senator McCain\",\n    \"2\": \"using your word 'fundamental'\"\n  },\n  \"P_clauses\": {\n    \"1\": \"lead this country out of the financial crisis\"\n  },\n  \"L_clauses\": {\n    \"1\": \"are there fundamental differences between your approach and Senator Obama's approach\",\n    \"2\": \"to what you would do as president\",\n    \"3\": \"And you get two minutes to begin with\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412083,
+  "id": "chatcmpl-7U7FrEEi3Uq0otuZtUFinL8iURwiH",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 197,
+    "prompt_tokens": 222,
+    "total_tokens": 419
+  }
+}
+21: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.0,\n  \"P\": 2.0,\n  \"L\": 4.0,\n  \"E_Expl\": \"The moderator addresses both candidates respectfully, showing ethos.\",\n  \"P_Expl\": \"Limited pathos - a straightforward question without emotional appeal to the candidates or audience.\",\n  \"L_Expl\": \"Logos present to a moderate degree due to the logic of disagreement that is asked within the question.\",\n  \"E_clauses\": {\"So, Senator McCain, do you agree with what Senator Obama just said?\":\"respectful_title\"},\n  \"P_clauses\": {},\n  \"L_clauses\": {\"tell him what you disagree with.\":\"logic_of_disagreement\"}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412083,
+  "id": "chatcmpl-7U7FrjtCxJAorpyuC66WKmV0he4tU",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 179,
+    "total_tokens": 330
+  }
+}
+19: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.0,\n  \"P\": 7.5,\n  \"L\": 3.5,\n  \"E_Expl\": \"The speaker establishes credibility by expressing determination.\",\n  \"P_Expl\": \"Emphasizes a desire for open communication, appealing to emotion.\",\n  \"L_Expl\": \"Minimal logical argument \u2013 just expressing intent to try.\",\n  \"E_clauses\": {\n    \"Ethos1\": \"I'm just determined\"\n  },\n  \"P_clauses\": {\n    \"Pathos1\": \"I'm just determined\",\n    \"Pathos2\": \"to get you all to talk to each other\"\n  },\n  \"L_clauses\": {\n    \"Logos1\": \"I'm going to try\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412082,
+  "id": "chatcmpl-7U7Fq2MhtIKPtl7Dj5DFo9YVo4EYi",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 170,
+    "total_tokens": 332
+  }
+}
+20: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 8.5,\n  \"L\": 6.5,\n  \"E_Expl\": \"The speaker establishes credibility as an advocate for the common person.\",\n  \"P_Expl\": \"The speaker invokes empathy by describing the plight of professionals like nurses, teachers, and police officers.\",\n  \"L_Expl\": \"The speaker makes a logical claim stating that tax policies are not in favor of these working-class individuals.\",\n  \"E_clauses\": {\n    \"1\": \"unless we are holding ourselves accountable day in, day out\"\n  },\n  \"P_clauses\": {\n    \"1\": \"for the nurse, the teacher, the police officer\",\n    \"2\": \"at the end of each month, they\u2019ve got a little financial crisis going on\",\n    \"3\": \"they\u2019re having to take out extra debt just to make their mortgage payments\"\n  },\n  \"L_clauses\": {\n    \"1\": \"We haven\u2019t been paying attention to them\",\n    \"2\": \"if you look at our tax policies, it\u2019s a classic example\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412083,
+  "id": "chatcmpl-7U7FrS12g0eN99E5LhX3PfCSTp2Li",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 236,
+    "prompt_tokens": 262,
+    "total_tokens": 498
+  }
+}
+22: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.2,\n  \"P\": 8.1,\n  \"L\": 5.8,\n  \"E_Expl\": \"Establishes credibility through confidence and strong conviction in American values and workers.\",\n  \"P_Expl\": \"Appeals to emotions by mentioning Main Street suffering, the American worker, and the nation's potential under the right leadership.\",\n  \"L_Expl\": \"Uses logical reasoning to discuss the necessity of regulatory reform and addresses existing problems in the system.\",\n  \"E_clauses\": {\n    \"1\": \"I have a fundamental belief in the goodness and strength of the American worker.\",\n    \"2\": \"But I have a fundamental belief in the United States of America.\",\n    \"3\": \"And I still believe, under the right leadership, our best days are ahead of us.\"\n  },\n  \"P_clauses\": {\n    \"1\": \"No, I \u2014 look, we\u2019ve got to fix the system.\",\n    \"2\": \"Main Street is paying a penalty for the excesses and greed in Washington, D.C., and in the Wall Street.\",\n    \"3\": \"But we\u2019ve got to get through these times,\"\n  },\n  \"L_clauses\": {\n    \"1\": \"We\u2019ve got fundamental problems in the system.\",\n    \"2\": \"And, obviously, stricter interpretation and consolidation of the various regulatory agencies that weren\u2019t doing their job, that has brought on this crisis.\",\n    \"3\": \"America is still the greatest producer, exporter and importer.\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412083,
+  "id": "chatcmpl-7U7FrOFyRiWNXf8RlUvCphAGnndL1",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 319,
+    "prompt_tokens": 320,
+    "total_tokens": 639
+  }
+}
+24: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 8.0,\n  \"P\": 7.5,\n  \"L\": 8.5,\n  \"E_Expl\": \"The speaker establishes credibility by discussing their experience and referencing a fellow senator's perspective.\",\n  \"P_Expl\": \"The speaker elicits feelings of frustration and dissatisfaction with wasteful government spending.\",\n  \"L_Expl\": \"The speaker presents logical arguments and factual evidence to support their stance on controlling government spending.\",\n  \"E_clauses\": {\n    \"clause_1\": \"We Republicans came to power to change government, and government changed us.\",\n    \"clause_2\": \"my friend, Tom Coburn, calls earmarking as a gateway drug, because it\u2019s a gateway.\"},\n  \"P_clauses\": {\n    \"clause_1\": \"We have former members of Congress now residing in federal prison because of the evils of this earmarking and pork-barrel spending.\",\n    \"clause_2\": \"You know, we spent $3 million to study the DNA of bears in Montana.\"\n  },\n  \"L_clauses\": {\n    \"clause_1\": \"It\u2019s gone \u2014 we have now presided over the largest increase in the size of government since the Great Society.\",\n    \"clause_2\": \"He has asked for $932 million of earmark pork-barrel spending, nearly a million dollars for every day that he\u2019s been in the United States Senate.\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412082,
+  "id": "chatcmpl-7U7FqzM5cS3xhL6Adh05S1JykZ3rX",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 297,
+    "prompt_tokens": 502,
+    "total_tokens": 799
+  }
+}

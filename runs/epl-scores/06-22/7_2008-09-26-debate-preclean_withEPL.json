@@ -1,0 +1,21 @@
+1: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n   \"E\": 7.5,\n   \"P\": 8.8,\n   \"L\": 8.2,\n   \"E_Expl\": \"The speaker establishes credibility by referring to past economic policies, their proposed rules, and their reason for running for president.\",\n   \"P_Expl\": \"Emotionally appealing to listeners' worries on financial impact and struggles faced by average Americans on Main Street.\",\n   \"L_Expl\": \"The speaker presents a logical argument by listing four specific proposals for financial reform and mentioning historical economic context.\",\n   \"E_Clauses\": {\n      \"clause_1\": \"I can't think of a more important time...\",\n      \"clause_2\": \"That's why I'm running for president...\",\n      \"clause_3\": \"and that's what I hope we're going to be talking about tonight.\"\n   },\n   \"P_Clauses\": {\n      \"clause_1\": \"those of you on Main Street I think have been struggling...\",\n      \"clause_2\": \"how's it going to affect my job?...\",\n      \"clause_3\": \"...the root problem here has to do with the foreclosures that are taking place...\"\n   },\n   \"L_Clauses\": {\n      \"clause_1\": \"And I've put forward a series of proposals...\",\n      \"clause_2\": \"Number one, we've got...\",\n      \"clause_3\": \"this is a final verdict on eight years of failed economic policies...\"\n   }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687444795,
+  "id": "chatcmpl-7UFlT9Om31fugItNjQjSiL9xADFJz",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 310,
+    "prompt_tokens": 621,
+    "total_tokens": 931
+  }
+}

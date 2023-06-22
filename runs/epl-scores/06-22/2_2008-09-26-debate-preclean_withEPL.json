@@ -1,0 +1,147 @@
+25: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 1.5,\n  \"P\": 1.0,\n  \"L\": 2.5,\n  \"E_Expl\": \"Weak use of authority by mentioning the title 'Senator'\",\n  \"P_Expl\": \"No appeal to emotions in this snippet\",\n  \"L_Expl\": \"Weak logical appeal by providing time constraint\",\n  \"E_clauses\": {\"1\": \"Senator Obama\"},\n  \"P_clauses\": {},\n  \"L_clauses\": {\"1\": \"two minutes\"}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZTGvHNa1XyzykAP9DaCfVCrr8",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 156,
+    "total_tokens": 266
+  }
+}
+19: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 2.5,\n  \"L\": 6.0,\n  \"E_Expl\": \"The speaker demonstrates determination as a leader.\",\n  \"P_Expl\": \"Minimal emotional appeal is present.\",\n  \"L_Expl\": \"The speaker uses logical statements of intention.\",\n  \"E_clauses\": {\"I'm just determined\": \"Determination showcases credibility.\"},\n  \"P_clauses\": {\"get you all to talk\": \"Focus on the audience's interaction.\"},\n  \"L_clauses\": {\"I'm going to try\": \"Statement of intention that follows logically from determination.\"}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZfgzMH6rTjtAuAw7SSHt2cWoS",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 170,
+    "total_tokens": 305
+  }
+}
+23: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.2,\n  \"P\": 2.0,\n  \"L\": 6.5,\n  \"E_Expl\": \"The moderator establishes credibility by addressing the candidates with their formal titles (Senator).\",\n  \"P_Expl\": \"Minimal emotional appeal is present in this snippet as it is focused on policy differences.\",\n  \"L_Expl\": \"Logical appeal is conveyed by asking to directly compare the candidates' approaches and their solutions to the financial crisis.\",\n  \"E_clauses\": {\"1\": \"Senator McCain\", \"2\": \"Senator Obama\"},\n  \"P_clauses\": {},\n  \"L_clauses\": {\"1\": \"fundamental differences\", \"2\": \"your approach and Senator Obama's approach\", \"3\": \"lead this country out of the financial crisis\"}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZSxEkI6USPh1LW4aKxi8Zr4jn",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 222,
+    "total_tokens": 391
+  }
+}
+21: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 3.5,\n  \"P\": 2.0,\n  \"L\": 7.5,\n  \"E_Expl\": \"The question includes an appeal to authority by addressing the participants as Senators.\",\n  \"P_Expl\": \"Minimal emotional appeal in the prompt.\",\n  \"L_Expl\": \"The prompt follows a logical structure by first asking for agreement and then requesting clarification on any points of disagreement.\",\n  \"E_clauses\": {\n    \"1\": \"Senator McCain\",\n    \"2\": \"Senator Obama\"\n  },\n  \"P_clauses\": {},\n  \"L_clauses\": {\n    \"1\": \"do you agree with what Senator Obama just said?\",\n    \"2\": \"And, if you don't, tell him what you disagree with.\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZBBMFg2u2EXcuAO4JbPAitSeV",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 179,
+    "total_tokens": 346
+  }
+}
+20: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 8.5,\n  \"L\": 6.9,\n  \"E_Expl\": \"The speaker establishes credibility by discussing the responsibility of holding people with power and influence accountable.\",\n  \"P_Expl\": \"The speaker evokes an emotional response by empathizing with those struggling like nurses, teachers, and police officers.\",\n  \"L_Expl\": \"The speaker uses a logical argument by suggesting that tax policies are a prime example of how everyday people are neglected.\",\n  \"E_clauses\": {\n    \"Ethos1\": \"unless we are holding ourselves accountable day in, day out\"\n  },\n  \"P_clauses\": {\n    \"Pathos1\": \"for the nurse, the teacher, the police officer, who, frankly, at the end of each month, they\u2019ve got a little financial crisis going on\",\n    \"Pathos2\": \"They\u2019re having to take out extra debt just to make their mortgage payments\"\n  },\n  \"L_clauses\": {\n    \"Logos1\": \"if you look at our tax policies, it\u2019s a classic example\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZlw3jIOAhxltjchILq3niT9bp",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 239,
+    "prompt_tokens": 262,
+    "total_tokens": 501
+  }
+}
+22: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 8.0,\n  \"L\": 6.0,\n  \"E_Expl\": \"The speaker projects credibility through their belief in the American worker and confidence in the future of America under the right leadership.\",\n  \"P_Expl\": \"The snippet appeals to emotion by emphasizing the suffering of Main Street, and the speaker's faith in the goodness, strength, and innovation of American workers.\",\n  \"L_Expl\": \"The speaker uses logical reasoning by identifying the need to fix the system, address greed and excess, and consolidate regulatory agencies.\",\n  \"E_clauses\": {\n    \"1\": \"But I have a fundamental belief in the goodness and strength of the American worker.\",\n    \"2\": \"And I still believe, under the right leadership, our best days are ahead of us.\"\n  },\n  \"P_clauses\": {\n    \"1\": \"Main Street is paying a penalty for the excesses and greed in Washington, D.C., and in the Wall Street.\",\n    \"2\": \"the American worker is the most productive, the most innovative\"\n  },\n  \"L_clauses\": {\n    \"1\": \"We\u2019ve got fundamental problems in the system.\",\n    \"2\": \"stricter interpretation and consolidation of the various regulatory agencies that weren\u2019t doing their job, that has brought on this crisis\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZBVKS6TDCBPk9Ae2kRgZUXVQa",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 287,
+    "prompt_tokens": 320,
+    "total_tokens": 607
+  }
+}
+24: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.4,\n  \"P\": 7.9,\n  \"L\": 8.3,\n  \"E_Expl\": \"The speaker establishes credibility by demonstrating knowledge of the issue and referencing their personal commitments and past experiences.\",\n  \"P_Expl\": \"The speaker evokes emotion through the use of humor, sharing a personal story, and highlighting relatable concerns about taxpayers' money.\",\n  \"L_Expl\": \"The speaker employs logical argumentation by citing specific examples, comparing the strategies of the two political parties, and proposing a clear solution.\",\n  \"E_clauses\": {\n    \"1\": \"my friend, Tom Coburn\",\n    \"2\": \"we Republicans came to power to change government\",\n    \"3\": \"As president of the United States,\",\n    \"4\": \"I\u2019ve got a pen\"\n  },\n  \"P_clauses\": {\n    \"1\": \"It\u2019s completely out of control.\",\n    \"2\": \"I don\u2019t know if that was a criminal issue or a paternal issue\",\n    \"3\": \"$3 million of our taxpayers\u2019 money\"\n  },\n  \"L_clauses\": {\n    \"1\": \"get spending under control in Washington\",\n    \"2\": \"earmarking as a gateway drug\",\n    \"3\": \"former members of Congress now residing in federal prison\",\n    \"4\": \"veto every single spending bill\",\n    \"5\": \"He has asked for $932 million of earmark pork-barrel spending\",\n    \"6\": \"Citizens Against Government Waste\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687412809,
+  "id": "chatcmpl-7U7RZ2Jiv6H6rHXBEIcYaByXC0i4W",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 326,
+    "prompt_tokens": 502,
+    "total_tokens": 828
+  }
+}
