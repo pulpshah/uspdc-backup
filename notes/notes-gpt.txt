@@ -19,3 +19,7 @@ it allows me to be specific, and also allows me to be care and test in bunches
 16.09 after test before full run 3
 
 5.55 110am
+
+6.35 1143am
+
+9.62 1214pm

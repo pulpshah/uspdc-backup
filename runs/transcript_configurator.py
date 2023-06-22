@@ -217,13 +217,24 @@ class GPTConcurrentRequester:
         self.open_ai_keys = open_ai_keys
         self.lock1 = Lock()
         self.lock2 = Lock()
+        self.lock3 = Lock()
         self.input_file_path = input_file_path
         self.scoreboard_calculator = scoreboard_calculator
+        
+    def write_error_to_file(self, error_message, error_log_file_path):
+        # Write the error message to the error log file
+        with self.lock3:
+            with open(error_log_file_path, 'a') as file:
+                file.write(f"{error_message}\n")
+        print(f"Wrote error to file: {os.path.relpath(error_log_file_path)}")
 
-    def worker(self, idx, output_file_full, output_file_full_2):
+    def worker(self, idx, output_file_full, output_file_full_2, error_log_file_path):
         retries = 5
         parsed_content = None  # Initialize parsed_content here
+        
         for attempt in range(retries):
+            retry_temp = 1
+            
             try:
                 row = self.df.loc[idx]
                 api_key = self.open_ai_keys[idx % len(self.open_ai_keys)]
@@ -233,16 +244,27 @@ class GPTConcurrentRequester:
                 self.write_responses_to_file(response, output_file_full, idx)
                 self.write_responses_to_file(parsed_content, output_file_full_2, idx)
                 break
+            
             except Exception as e:
+                error_message = ''
                 if 'response' in locals() and response.get('choices') and len(response.get('choices')) > 0:
-                    print(f'Error at index {idx} after {retries} attempts: {str(e)}')
-                    print(f'Response content: {response["choices"][0]["message"]["content"]}')
+                    error_message = f'Error at index {idx} after {retry_temp} attempt(s): {str(e)}'
+                    print(error_message)
+                    error_message = f'Response content: {response["choices"][0]["message"]["content"]}'
+                    print(error_message)
+                    retry_temp += 1
+                    
                 else:
-                    print(f'Error at index {idx} after {retries} attempts: {str(e)}')
+                    print(f'Error at index {idx} after {retry_temp} attempt(s): {str(e)}')
+                
+                self.write_error_to_file(error_message, error_log_file_path)
+                retry_temp += 1
+                
                 time.sleep(1.5 ** attempt)
+                
         return idx, parsed_content
 
-    def get_unique_filename(self, output_directory, output_file_name_base):
+    def get_unique_filename_json(self, output_directory, output_file_name_base):
         counter = 0
         while True:
             # Prepend the counter to the base file name
@@ -271,11 +293,12 @@ class GPTConcurrentRequester:
             os.makedirs(output_directory)
         
         # Use the basename of the input file to create the output filename
-        output_file_name_base = os.path.basename(self.input_file_path).replace('.txt', '_withEPL')
+        output_file_path = os.path.basename(self.input_file_path).replace('.txt', '_response')
         
-        # Get unique filenames for the two output files
-        output_file_name, output_file_full = self.get_unique_filename(output_directory, output_file_name_base)
-        output_file_name_2, output_file_full_2 = self.get_unique_filename(output_directory, output_file_name_base + "_content")
+        # Get unique filenames for the 3 output files
+        _, response_file_path = self.get_unique_filename_json(output_directory, output_file_path)
+        _, content_key_file_path = self.get_unique_filename_json(output_directory, output_file_path + "_content")
+        _, error_log_file_path = self.get_unique_filename_json(output_directory, output_file_path + "_errors")
 
         start = startturn if startturn is not None else 0
         end = endturn if endturn is not None else len(self.df)
@@ -288,7 +311,7 @@ class GPTConcurrentRequester:
             print(f"Warning: The end point exceeded the length of the dataframe. It has been adjusted to the last turn: {end}")
 
         with ThreadPoolExecutor(max_workers=25) as executor:
-            futures = [executor.submit(self.worker, i, output_file_full, output_file_full_2) for i in range(start, end)]
+            futures = [executor.submit(self.worker, i, response_file_path, content_key_file_path, error_log_file_path) for i in range(start, end)]
             for future in as_completed(futures):
                 try:
                     original_index, parsed_content = future.result()
@@ -296,6 +319,7 @@ class GPTConcurrentRequester:
                         self.update_dataframe_with_parsed_content(parsed_content, original_index)
                 except Exception as e:
                     print(f"Error in a thread: {str(e)}")
+                    
 
         self.df.sort_values('turn_number', inplace=True)
         self.df.reset_index(drop=True, inplace=True)
@@ -307,7 +331,7 @@ class GPTConcurrentRequester:
         if not row['content']: 
             return "Error: A current sentence is required."
 
-        content = f"Evaluate the following snippet for Ethos, Pathos, and Logos on a scale feom 1.0 - 9.9 and provide a 1 sentence explanation for each. Also tell me exactly which clauses correlate most strongly to Ethos/Pathos/Logos. [Snippet: \'{row['content']}\'] Return only a JSON object in this schema: {{E: x.x, P: y.y, L: z.z, E_Expl: string, P_Expl:, string L_Expl: string, E_Clauses: dict, P_Clauses: dict, L_Clauses: dict}}."
+        content = f"Use your contextual awareness to evaluate the following debate snippet (may be incomplete) for Ethos, Pathos, and Logos on a scale from 0.0 - 9.9. For all non-zero values, provide a 1 sentence explanation, otherwise empty string. When applicable, also tell me exactly which clauses correlate most strongly to Ethos/Pathos/Logos, otherwise empty string. [Snippet: \'{row['content']}\'] Return only a JSON object in this schema: {{E: x.x, P: y.y, L: z.z, E_Expl: string, P_Expl:, string L_Expl: string, E_Clauses: dict, P_Clauses: dict, L_Clauses: dict}}."
 
         prompt = openai.ChatCompletion.create(
             model="gpt-4",
@@ -339,6 +363,11 @@ class GPTConcurrentRequester:
         with self.lock1:
             with open(output_file_path, 'a') as file:
                 file.write(f"{idx}: {response}\n")
+
+        # Get the relative path from the absolute path
+        relative_path = os.path.relpath(output_file_path)
+        print(f"Wrote response for index {idx} to file: {relative_path}")
+
 
     def update_dataframe_with_parsed_content(self, parsed_content, idx):
         if parsed_content:

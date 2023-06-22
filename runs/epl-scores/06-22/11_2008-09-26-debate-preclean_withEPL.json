@@ -1,0 +1,21 @@
+116: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"The snippet 'New \u2026' is insufficient to analyze for Ethos.\",\n  \"P_Expl\": \"The snippet 'New \u2026' is insufficient to analyze for Pathos.\",\n  \"L_Expl\": \"The snippet 'New \u2026' is insufficient to analyze for Logos.\",\n  \"E_Clauses\": {},\n  \"P_Clauses\": {},\n  \"L_Clauses\": {}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687450634,
+  "id": "chatcmpl-7UHHe7UimQgZJW8tQLdtbiBzyulnR",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 174,
+    "total_tokens": 290
+  }
+}
