@@ -226,7 +226,7 @@ class GPTConcurrentRequester:
         with self.lock3:
             with open(error_log_file_path, 'a') as file:
                 file.write(f"{error_message}\n")
-        print(f"Wrote error to file: {os.path.relpath(error_log_file_path)}")
+        print(f"\nWrote error to file: {os.path.relpath(error_log_file_path)}")
 
     def worker(self, idx, output_file_full, output_file_full_2, error_log_file_path):
         retries = 5
@@ -331,7 +331,7 @@ class GPTConcurrentRequester:
         if not row['content']: 
             return "Error: A current sentence is required."
 
-        content = f"Use your contextual awareness to evaluate the following debate snippet (may be incomplete) for Ethos, Pathos, and Logos on a scale from 0.0 - 9.9. For all non-zero values, provide a 1 sentence explanation, otherwise empty string. When applicable, also tell me exactly which clauses correlate most strongly to Ethos/Pathos/Logos, otherwise empty string. [Snippet: \'{row['content']}\'] Return only a JSON object in this schema: {{E: x.x, P: y.y, L: z.z, E_Expl: string, P_Expl:, string L_Expl: string, E_Clauses: dict, P_Clauses: dict, L_Clauses: dict}}."
+        content = f"Use your contextual awareness to evaluate the following debate snippet from the US Presidential debate for Ethos, Pathos, and Logos on a scale from 0.0 - 9.9. The snippet may be incomplete, in which case just return 0 values or empty strings. For all non-zero values for EPL, provide a 1 sentence explanation. When applicable, also tell me exactly which clauses correlate most strongly to Ethos/Pathos/Logos, otherwise empty string. [Snippet: \'{row['content']}\'] Return only a JSON object in this schema: {{E: x.x, P: y.y, L: z.z, E_Expl: string, P_Expl:, string L_Expl: string, E_Clauses: dict, P_Clauses: dict, L_Clauses: dict}}. If you cannot, simply return an empty JSON object."
 
         prompt = openai.ChatCompletion.create(
             model="gpt-4",
