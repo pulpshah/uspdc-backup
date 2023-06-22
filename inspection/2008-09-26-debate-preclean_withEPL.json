@@ -1,0 +1,63 @@
+9: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687388654,
+  "id": "chatcmpl-7U19yomGvfMBV8NSPlbEFdtBl5zRp",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 159,
+    "total_tokens": 209
+  }
+}
+376: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.0,\n  \"P\": 1.0,\n  \"L\": 4.0,\n  \"E_Expl\": \"The speaker establishes his credibility by acknowledging his colleague, the candidates, and his own role as the moderator.\",\n  \"P_Expl\": \"The use of 'thank you, and good night' provides a minimal emotional connection to the audience.\",\n  \"L_Expl\": \"Dates, times, locations and the people involved are presented in a logical manner to inform the audience.\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687394416,
+  "id": "chatcmpl-7U2eu4LQAOyK4hA3JvcGLx4UgqhKo",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 247,
+    "total_tokens": 358
+  }
+}
+375: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 8.5,\n  \"P\": 8.0,\n  \"L\": 6.5,\n  \"E_Expl\": \"The speaker's personal experience with prison, involvement in resolving the POW-MIA issue, and work with normalizing relations with other countries gives them a strong credibility.\",\n  \"P_Expl\": \"The speaker appeals to emotions by discussing the mistreatment of veterans, expressing sadness, and emphasizing a personal commitment to help them.\",\n  \"L_Expl\": \"There is a logical approach to how the speaker achieved resolving the POW-MIA issue and to knowing how to deal with adversaries and friends.\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687394416,
+  "id": "chatcmpl-7U2euyMT5LrgHyDIPpc0ViWt7tjW4",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 266,
+    "total_tokens": 400
+  }
+}

@@ -1,0 +1,240 @@
+{
+    "index": 2,
+    "response": {
+        "id": "chatcmpl-7RMlre9R9blQJn0kkYN6Q1t4SBSNL",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 163,
+            "completion_tokens": 43,
+            "total_tokens": 206
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\"E\": 0.0, \"P\": 0.0, \"L\": 0.0, \"E_Expl\": \"\", \"P_Expl\": \"\", \"L_Expl\": \"\"}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 9,
+    "response": {
+        "id": "chatcmpl-7RMlrrbXMyuLiqIGGGgbgjsItgX2y",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 159,
+            "completion_tokens": 50,
+            "total_tokens": 209
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 7,
+    "response": {
+        "id": "chatcmpl-7RMlrDZEk4bbRyk5QdEc6LS4KLxSM",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 167,
+            "completion_tokens": 69,
+            "total_tokens": 236
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 0.0,\n  \"P\": 1.5,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"The words 'I hope so' convey a slight emotional appeal as they imply uncertainty and vulnerability.\",\n  \"L_Expl\": \"\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 8,
+    "response": {
+        "id": "chatcmpl-7RMlrl6KtvlTtOcmc014NfvkdsHVp",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 164,
+            "completion_tokens": 115,
+            "total_tokens": 279
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n   \"E\": 8.0,\n   \"P\": 1.0,\n   \"L\": 2.0,\n   \"E_Expl\": \"Starting with 'As a United States senator' gives the speaker credibility and authority.\",\n   \"P_Expl\": \"Though there isn't a direct appeal to emotions, the embedded context may evoke an emotional reaction, but minimally.\",\n   \"L_Expl\": \"There is a logical basis to the snippet, hinting at the speaker's experience or knowledge, but it lacks further elaboration.\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 5,
+    "response": {
+        "id": "chatcmpl-7RMlr5NwR5p9I2WlubtjJbDnTcAtN",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 422,
+            "completion_tokens": 109,
+            "total_tokens": 531
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 6.5,\n  \"P\": 3.5,\n  \"L\": 8.0,\n  \"E_Expl\": \"The speaker shows credibility by referring to their past actions and warnings on the issue.\",\n  \"P_Expl\": \"The speaker tries to evoke hope by saying they are optimistic about the capacity to come together with a plan.\",\n  \"L_Expl\": \"The speaker uses logical reasoning to question the current situation and emphasizes the need for intervention and a modern regulatory framework.\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 0,
+    "response": {
+        "id": "chatcmpl-7RMlril4B6Us95dBRe7hOJq8Dl4jA",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 459,
+            "completion_tokens": 118,
+            "total_tokens": 577
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 7.8,\n  \"P\": 2.5,\n  \"L\": 7.0,\n  \"E_Expl\": \"The speaker establishes credibility by introducing himself as a journalist from PBS and providing background information on the debate format.\",\n  \"P_Expl\": \"A little emotional appeal is evoked by mentioning the University of Mississippi and the presence of a live audience.\",\n  \"L_Expl\": \"The logical structure is present as the speaker outlines the debate rules and process, and sets the context with a quote from General Eisenhower.\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 1,
+    "response": {
+        "id": "chatcmpl-7RMlrrvPM7pWivxiaKDF4SW93YYLF",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 625,
+            "completion_tokens": 122,
+            "total_tokens": 747
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\"E\": 8.5, \"P\": 7.4, \"L\": 9.5, \"E_Expl\": \"The speaker establishes credibility through courtesy and acknowledgment of the debate setting, while conveying the importance of discussing the country's future.\", \"P_Expl\": \"The speaker connects emotionally with the audience by addressing concerns related to jobs, housing, retirement savings, and education.\", \"L_Expl\": \"The speaker uses a logical structure to present a series of proposals regarding the financial rescue, oversight, and direct support for homeowners, as well as critique of existing policies.\"}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 3,
+    "response": {
+        "id": "chatcmpl-7RMlrSnvNOm9W7lhiOagSs4uCiOAV",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 615,
+            "completion_tokens": 125,
+            "total_tokens": 740
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 7.5,\n  \"P\": 7.2,\n  \"L\": 7.8,\n  \"E_Expl\": \"The speaker begins by acknowledging their personal connection to Senator Kennedy and thanks the University of Mississippi, establishing credibility and respect.\",\n  \"P_Expl\": \"The speaker shares their own feelings of distress and relates to the challenges faced by many Americans, creating an emotional appeal.\",\n  \"L_Expl\": \"The speaker provides logical details about the ongoing fiscal crisis, its potential impact on the economy, and the importance of bipartisan cooperation to address the issue.\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 6,
+    "response": {
+        "id": "chatcmpl-7RMlr9IPFUetdhH2Z6uklNvy2suf5",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 170,
+            "completion_tokens": 90,
+            "total_tokens": 260
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 2.0,\n  \"P\": 0.0,\n  \"L\": 2.5,\n  \"E_Expl\": \"The speaker references Senator McCain's authority, but without any strong appeal to the speaker's own credibility.\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"There is minimal logical content as this question does not present much of an argument or offer any evidence.\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}
+{
+    "index": 4,
+    "response": {
+        "id": "chatcmpl-7RMlrtTSMln3Sy0wT04QP12sMWbff",
+        "object": "chat.completion",
+        "created": 1686756743,
+        "model": "gpt-4-0314",
+        "usage": {
+            "prompt_tokens": 235,
+            "completion_tokens": 111,
+            "total_tokens": 346
+        },
+        "choices": [
+            {
+                "message": {
+                    "role": "assistant",
+                    "content": "{\n  \"E\": 4.5,\n  \"P\": 4.0,\n  \"L\": 4.0,\n  \"E_Expl\": \"While the speaker has the authority as the debate moderator, the question shows only moderate expertise on the topic.\",\n  \"P_Expl\": \"The informal tone implies a sense of urgency and encourages conversation, even though there is limited emotional impact.\",\n  \"L_Expl\": \"The logical appeal is not particularly strong because the moderator does not provide supporting evidence for the recovery plan.\"\n}"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }
+        ]
+    }
+}

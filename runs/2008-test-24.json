@@ -1,0 +1,63 @@
+{
+    "id": "chatcmpl-7REZdljdY1xroevWK1oQyGyidfQz9",
+    "object": "chat.completion",
+    "created": 1686725233,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 50,
+        "total_tokens": 213
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7REZeY676Y01uDLYAaQjWtHtsQt5p",
+    "object": "chat.completion",
+    "created": 1686725234,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 625,
+        "completion_tokens": 132,
+        "total_tokens": 757
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 8.0,\n  \"P\": 8.5,\n  \"L\": 8.7,\n  \"E_Expl\": \"The speaker demonstrates credibility by thanking the host, acknowledging the importance of the discussion, and addressing concerns of the audience.\",\n  \"P_Expl\": \"The speaker appeals to the emotions by addressing the fears and anxieties of the audience, such as the impact on their job, house, and children's education.\",\n  \"L_Expl\": \"The speaker presents logical arguments and proposals about oversight, protecting taxpayers, and helping homeowners, while pointing out the failure of previous economic policies.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7REZeSbipiuOBfOGejjXxrItos9lC",
+    "object": "chat.completion",
+    "created": 1686725234,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 615,
+        "completion_tokens": 121,
+        "total_tokens": 736
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 6.8,\n  \"P\": 7.7,\n  \"L\": 5.5,\n  \"E_Expl\": \"The speaker establishes credibility by noting their experience, acknowledging the host, and sympathizing with Senator Kennedy.\",\n  \"P_Expl\": \"The speaker connects emotionally with the audience by mentioning the personal consequences people face, such as losing jobs, credits, and homes.\",\n  \"L_Expl\": \"The argument includes logical points in addressing the financial crisis and proposed package, but the speaker could have provided more specific details and statistics.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

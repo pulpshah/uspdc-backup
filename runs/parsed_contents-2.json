@@ -1,0 +1,34 @@
+[
+    {
+        "E": 0.0,
+        "P": 0.0,
+        "L": 0.0,
+        "E_Expl": "",
+        "P_Expl": "",
+        "L_Expl": ""
+    },
+    {
+        "E": 4.9,
+        "P": 3.2,
+        "L": 7.4,
+        "E_Expl": "The speaker establishes credibility as the debate moderator and holds the power to guide the conversation.",
+        "P_Expl": "The speaker uses a rhetorical technique by saying 'We can negotiate a deal right here,' which induces a sense of urgency.",
+        "L_Expl": "The snippet contains a clear question using specific terms, like 'recovery plan,' but lacks a compelling logical argument."
+    },
+    {
+        "E": 7.2,
+        "P": 8.1,
+        "L": 8.7,
+        "E_Expl": "The speaker establishes credibility by thanking the host and acknowledging the importance of the presidential debate.",
+        "P_Expl": "The speaker elicits empathy by discussing the struggles faced by people on 'Main Street' and addressing their concerns about the future.",
+        "L_Expl": "The speaker uses a logical argument by presenting a list of proposals to protect taxpayers and criticizing the past eight years of failed economic policy."
+    },
+    {
+        "E": 8.0,
+        "P": 6.0,
+        "L": 7.5,
+        "E_Expl": "The speaker establishes credibility by expressing concern for Senator Kennedy, mentioning their own feelings, and acknowledging the bipartisan efforts.",
+        "P_Expl": "The speaker evokes emotion with a somber tone, sympathizing with struggling Americans and mentioning people who may lose their jobs, homes, and credit.",
+        "L_Expl": "The speaker provides logical arguments by discussing the fiscal crisis, the bipartisan package, transparency, accountability, and the need to create jobs and reduce foreign oil dependence."
+    }
+]

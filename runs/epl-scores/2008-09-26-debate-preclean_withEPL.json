@@ -1,0 +1,105 @@
+2: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 0.0, \n  \"P\": 0.0, \n  \"L\": 0.0, \n  \"E_Expl\": \"\", \n  \"P_Expl\": \"\", \n  \"L_Expl\": \"\", \n  \"E_keywords\": {}, \n  \"P_keywords\": {}, \n  \"L_keywords\": {}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687404702,
+  "id": "chatcmpl-7U5KoZJVGtLn6qO5LBCwT3gLpIUeF",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 195,
+    "total_tokens": 271
+  }
+}
+0: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 2.5,\n  \"L\": 8.0,\n  \"E_Expl\": \"The speaker establishes credibility by introducing himself, stating his position, and referencing the historical quote.\",\n  \"P_Expl\": \"The anticipation of the audience and welcoming the candidates creates a modest emotional appeal.\",\n  \"L_Expl\": \"The snippet lays out a clear, logical structure for the debate and the format it will follow.\",\n  \"E_keywords\": {\n    \"Jim Lehrer\": 2,\n    \"NewsHour on PBS\": 2,\n    \"Commission on Presidential Debates\": 3,\n    \"General Eisenhower\": 3\n  },\n  \"P_keywords\": {\n    \"audience\": 1,\n    \"welcome\": 1,\n    \"APPLAUSE\": 1\n  },\n  \"L_keywords\": {\n    \"format\": 3,\n    \"schedule\": 2,\n    \"segments\": 2,\n    \"questions\": 3,\n    \"first lead question\": 2\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687404703,
+  "id": "chatcmpl-7U5KpGlSbkGUvOd5x2lkFyc6Q8lV2",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 225,
+    "prompt_tokens": 491,
+    "total_tokens": 716
+  }
+}
+1: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.6,\n  \"P\": 6.5,\n  \"L\": 8.3,\n  \"E_Expl\": \"The speaker demonstrates credibility by mentioning collaboration with the commission and university as well as a knowledge of current economic conditions.\",\n  \"P_Expl\": \"The speaker relates the economic crisis to personal struggles in jobs, housing, retirement savings, and college, invoking emotional concern for the middle class.\",\n  \"L_Expl\": \"The speaker provides specific policy proposals and connects the current financial crisis to past economic policies and decisions.\",\n  \"E_keywords\": {\"commission\": 1, \"University of Mississippi\": 2, \"Ole Miss\": 1, \"defining moment\": 2},\n  \"P_keywords\": {\"Main Street\": 2, \"struggling\": 2, \"affect\": 3, \"job\": 1, \"house\": 1, \"retirement savings\": 1, \"children\": 2, \"college\": 1},\n  \"L_keywords\": {\"financial crisis\": 3, \"Great Depression\": 2, \"Wall Street\": 1, \"taxpayers\": 3, \"series of proposals\": 2, \"oversight\": 2, \"CEO bank accounts\": 1, \"golden parachutes\": 1, \"homeowners\": 2, \"foreclosures\": 1, \"economic policies\": 2, \"George Bush\": 1, \"Senator McCain\": 1, \"middle class\": 3, \"running for president\": 1}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687404703,
+  "id": "chatcmpl-7U5Kp6ROG1a15zTsPZHUVNzoZtsuw",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 328,
+    "prompt_tokens": 657,
+    "total_tokens": 985
+  }
+}
+182: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 2.0, \n  \"P\": 1.5, \n  \"L\": 4.0, \n  \"E_Expl\": \"The use of 'Senator McCain' refers to the credibility associated with his position.\", \n  \"P_Expl\": \"There is a subtle attempt to bond through shared understanding.\", \n  \"L_Expl\": \"The question uses logical reasoning by asking for agreement on connections.\", \n  \"E_keywords\": {\"Senator McCain\": 2}, \n  \"P_keywords\": {\"you see\": 1}, \n  \"L_keywords\": {\"connections\": 2, \"does\": 1}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687406005,
+  "id": "chatcmpl-7U5fp0jd3j8GQfoL2gGHJkTUA3bCM",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 200,
+    "total_tokens": 338
+  }
+}
+183: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.8,\n  \"P\": 5.5,\n  \"L\": 8.5,\n  \"E_Expl\": \"The speaker establishes credibility by mentioning their position on the Veterans Affairs Committee and showcasing their broad understanding of various issues.\",\n  \"P_Expl\": \"The speaker appeals to emotions by discussing the struggles of veterans with PTSD and the inability to provide healthcare to people who need it.\",\n  \"L_Expl\": \"The speaker uses logical arguments by connecting economic decline with the inability to maintain military superiority, and highlighting the consequences of focusing solely on Iraq.\",\n  \"E_keywords\": {\n    \"Veterans Affairs Committee\": 2\n  },\n  \"P_keywords\": {\n    \"veterans\": 2,\n    \"post-traumatic stress disorder\": 3,\n    \"healthcare\": 2\n  },\n  \"L_keywords\": {\n    \"economic decline\": 2,\n    \"military superiority\": 2,\n    \"resources\": 2,\n    \"national security issue\": 2,\n    \"strategic vision\": 2,\n    \"billions of dollars\": 1,\n    \"absence\": 1\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687406005,
+  "id": "chatcmpl-7U5fpokze3h9zYgijxAKGbk8srnd2",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 246,
+    "prompt_tokens": 580,
+    "total_tokens": 826
+  }
+}

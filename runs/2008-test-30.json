@@ -1,0 +1,210 @@
+{
+    "id": "chatcmpl-7RFbjTLTbS3moJbu35uf3V3OzJzuu",
+    "object": "chat.completion",
+    "created": 1686729207,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 55,
+        "total_tokens": 218
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 0.0, \n  \"P\": 0.0, \n  \"L\": 0.0, \n  \"E_Expl\": \"\", \n  \"P_Expl\": \"\", \n  \"L_Expl\": \"\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFbjzhMLJyO07ewt0d2kCruGIZZc",
+    "object": "chat.completion",
+    "created": 1686729207,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 235,
+        "completion_tokens": 82,
+        "total_tokens": 317
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 4.5,\n  \"P\": 0.0,\n  \"L\": 6.0,\n  \"E_Expl\": \"The moderator establishes their credibility by facilitating the discussion on the recovery plan.\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"The snippet presents a logical inquiry asking for both Senators' stances on the recovery plan.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFbilMyWMrvmWlVp6zhdjGQD3mDb",
+    "object": "chat.completion",
+    "created": 1686729206,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 459,
+        "completion_tokens": 121,
+        "total_tokens": 580
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5,\n  \"P\": 2.5,\n  \"L\": 8.0,\n  \"E_Expl\": \"The speaker establishes credibility by mentioning their role as the debate moderator, their affiliation with PBS NewsHour, and the involvement of the Commission on Presidential Debates.\",\n  \"P_Expl\": \"Minimal emotional appeal is present through the reference to audience excitement as they welcome the candidates.\",\n  \"L_Expl\": \"The speaker effectively uses logic by outlining the debate structure, format, and rules while also introducing the topic of discussion.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFbjYAJfhA7dJPyn2HXnmZt5hCx8",
+    "object": "chat.completion",
+    "created": 1686729207,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 615,
+        "completion_tokens": 135,
+        "total_tokens": 750
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 6.9,\n  \"P\": 7.5,\n  \"L\": 6.4,\n  \"E_Expl\": \"The speaker establishes credibility as a presidential candidate by discussing their personal connections with Senator Kennedy and offering gratitude to the debate hosts.\",\n  \"P_Expl\": \"Emotions are elicited through the acknowledgment of the ongoing fiscal crisis, potential loss of jobs, and fears regarding financial stability.\",\n  \"L_Expl\": \"The speaker outlines a plan to address the crisis with key points like transparency, accountability, oversight, options for loans, and a focus on creating jobs and eliminating dependence on foreign oil.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFbi7jWAV0Fh051JEqjRHbsKuUzz",
+    "object": "chat.completion",
+    "created": 1686729206,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 625,
+        "completion_tokens": 151,
+        "total_tokens": 776
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5,\n  \"P\": 7.2,\n  \"L\": 8.0,\n  \"E_Expl\": \"The speaker establishes credibility by thanking the host, acknowledging the importance of the debate, and indicating an understanding of the current challenges faced by the country.\",\n  \"P_Expl\": \"The speaker appeals to the emotions of the audience by discussing the struggles of everyday people on Main Street and the potential impact of the crisis on their lives.\",\n  \"L_Expl\": \"The speaker presents a well-structured argument with specific, numbered proposals to address the financial crisis and support homeowners, while also referring to the past eight years of economic policy as a basis for the need for change.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFdvA2h4JPybdnsvAYhurW2TNcqd",
+    "object": "chat.completion",
+    "created": 1686729343,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 50,
+        "total_tokens": 213
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFdvE8ZbP7stcfDBuisO3lnAFDYX",
+    "object": "chat.completion",
+    "created": 1686729343,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 235,
+        "completion_tokens": 115,
+        "total_tokens": 350
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 3.5,\n  \"P\": 2.0,\n  \"L\": 5.5,\n  \"E_Expl\": \"The snippet alludes to the authority of the speaker as a moderator by keeping the debate on track and pushing the candidates for an answer.\",\n  \"P_Expl\": \"There is some emotional appeal in the idea of negotiating a deal in real-time during the debate.\",\n  \"L_Expl\": \"This snippet presents a logically structured question to guide the discussion and encourage candidates to take a stance.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFdvuSmUtNGHZwfbRDKeqYEdENuF",
+    "object": "chat.completion",
+    "created": 1686729343,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 459,
+        "completion_tokens": 117,
+        "total_tokens": 576
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 8.5,\n  \"P\": 0.0,\n  \"L\": 6.5,\n  \"E_Expl\": \"Jim Lehrer establishes credibility by introducing himself and explaining his role as a PBS NewsHour host, as well as the event's sponsorship by the Commission on Presidential Debates.\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"Lehrer's introduction outlines the structure, content, and rules of the debate, demonstrating the logic behind the format and the focus on foreign policy and national security.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFdvyBErEtWl9mCC2UlVuOfVqG8Y",
+    "object": "chat.completion",
+    "created": 1686729343,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 625,
+        "completion_tokens": 124,
+        "total_tokens": 749
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5,\n  \"P\": 8.2,\n  \"L\": 8.5,\n  \"E_Expl\": \"The speaker establishes credibility by expressing gratitude to the host and mentioning the importance of discussing the future of the country.\",\n  \"P_Expl\": \"The speaker effectively evokes emotion by discussing the struggles of Main Street citizens and the potential impact of the financial crisis on their daily lives.\",\n  \"L_Expl\": \"The speaker provides clear, numbered plans for addressing the crisis and connecting the current crisis to the failed economic policies of the past.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFfO6CAoriplazBfdyHweilaeEKJ",
+    "object": "chat.completion",
+    "created": 1686729434,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 615,
+        "completion_tokens": 122,
+        "total_tokens": 737
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5,\n  \"P\": 7.2,\n  \"L\": 6.2,\n  \"E_Expl\": \"The speaker establishes credibility by mentioning their relationship with Senator Kennedy and expressing concern for their well-being.\",\n  \"P_Expl\": \"The statement creates an emotional appeal by relating the fiscal crisis to the audience's jobs, credits, and homes.\",\n  \"L_Expl\": \"The speaker presents a logical argument explaining the efforts being made by both parties to work together and the key elements needed in the proposed package to resolve the crisis.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

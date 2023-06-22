@@ -1,0 +1,63 @@
+153: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"\",\n  \"E_keywords\": {},\n  \"P_keywords\": {},\n  \"L_keywords\": {}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687406597,
+  "id": "chatcmpl-7U5pN2JyCTh9Jhqs4F5TffmKPT9Sd",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 214,
+    "total_tokens": 282
+  }
+}
+151: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 6.5,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"The speaker refers to a previous statement, creating a logical comparison.\",\n  \"E_keywords\": {},\n  \"P_keywords\": {},\n  \"L_keywords\": {\"1\": \"major difference\", \"2\": \"what he just said\"}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687406598,
+  "id": "chatcmpl-7U5pOj4aC8fEWqLeZD7MGXRlOHJkU",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 207,
+    "total_tokens": 303
+  }
+}
+152: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.3,\n  \"P\": 6.2,\n  \"L\": 9.0,\n  \"E_Expl\": \"The speaker establishes credibility by referencing their own previous actions and expertise on the issue.\",\n  \"P_Expl\": \"The speaker uses emotion by mentioning the pain people feel at the pump and the approaching winter.\",\n  \"L_Expl\": \"The speaker provides logical arguments backed by specific data and examples.\",\n  \"E_keywords\": {\"Senator McCain and I agree\": 2, \"I warned the administration\": 3, \"I immediately said\": 2, \"I called for a billion dollars\": 2},\n  \"P_keywords\": {\"pain that people are feeling at the pump\": 2, \"winter's coming\": 2, \"enormous strain on Georgia\": 1},\n  \"L_keywords\": {\"3 percent of the world's oil supplies\": 3, \"25 percent of the world's oil\": 3, \"Russia's intentions\": 2, \"Russian peacekeepers\": 3, \"energy strategy\": 3}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687406598,
+  "id": "chatcmpl-7U5pOPqqzfaz9MQPfqEKVrf6I4beA",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 229,
+    "prompt_tokens": 783,
+    "total_tokens": 1012
+  }
+}

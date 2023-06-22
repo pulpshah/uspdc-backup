@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap');
+    
+        body {
+            font-family: 'Public Sans', sans-serif;
+        }
+    
+        table {
+            table-layout: fixed;
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #F0F0F0;
+        }
+    
+        th, td {
+            border: 1px solid #808080;
+            width: {{ 100/df.shape[1] }}%;
+            word-wrap: break-word;
+            height: 100px;
+            text-align: center;
+            vertical-align: middle;
+            color: #202020;
+        }
+    
+        th {
+            background-color: #202020;
+            color: #F0F0F0;
+            position: sticky;
+            top: 0;
+        }
+    
+        .cell-div {
+            overflow-y: auto;
+            height: 100%;
+            max-height: 100px;
+        }
+    
+        .content {
+            text-align: left;
+        }
+    
+        tr[data-speaker="MCCAIN"]:hover {
+            background-color: #FFC1C1;
+        }
+    
+        tr[data-speaker="OBAMA"]:hover {
+            background-color: #ADD8E6;
+        }
+    
+        tr[data-speaker="LEHRER"]:hover {
+            background-color: #90EE90;
+        }
+        </style>
+    </head>
+    
+<body>
+    <table>
+        <!-- Header -->
+        <thead>
+            <tr>
+            {% for header in df.columns %}
+                <th>{{ header }}</th>
+            {% endfor %}
+            </tr>
+        </thead>
+        <!-- Body -->
+        <tbody>
+            {% for i in df.index %}
+            <tr {{ df.loc[i, 'row_attr'] }}>
+                <!-- ... (rest of your row generation code here) ... -->
+            </tr>
+            {% endfor %}
+            {% for i in df.index %}
+            <tr {{ df.loc[i, 'row_attr'] }}>
+                {% for column in df.columns %}
+                {% if column != 'row_attr' %}
+                <td class="{{ 'content' if column == 'content' else '' }}">
+                    <div class="cell-div">{{ df.loc[i, column] }}</div>
+                </td>
+                {% endif %}
+                {% endfor %}
+            </tr>
+            {% endfor %}    
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,63 @@
+{
+    "id": "chatcmpl-7RFtfRhx0zHbBZs0FDqus0W4ugqfq",
+    "object": "chat.completion",
+    "created": 1686730319,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 50,
+        "total_tokens": 213
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 0.0,\n  \"P\": 0.0,\n  \"L\": 0.0,\n  \"E_Expl\": \"\",\n  \"P_Expl\": \"\",\n  \"L_Expl\": \"\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFtf8J5iKlT2AXcd9tD4G5B3Z64Z",
+    "object": "chat.completion",
+    "created": 1686730319,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 459,
+        "completion_tokens": 104,
+        "total_tokens": 563
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5,\n  \"P\": 2.0,\n  \"L\": 6.0,\n  \"E_Expl\": \"The introduction establishes the credibility of the debate, the candidates, and the moderator.\",\n  \"P_Expl\": \"The mention of General Eisenhower's quote provides a minimal emotional appeal to those who respect the former president.\",\n  \"L_Expl\": \"There is a logical structure presented for the debate format and explanation of the chosen subject matter.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFtf1Tgwv2g4drJIJOLTYhAqLrrX",
+    "object": "chat.completion",
+    "created": 1686730319,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 625,
+        "completion_tokens": 134,
+        "total_tokens": 759
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5,\n  \"P\": 5.8,\n  \"L\": 7.9,\n  \"E_Expl\": \"The speaker establishes credibility by thanking the hosts, acknowledging the importance of the discussion, and having a well-organized speech.\",\n  \"P_Expl\": \"The speaker appeals to emotion by mentioning the struggles of Main Street, the potential impact on individuals, and the goal of a fair shake for the middle class.\",\n  \"L_Expl\": \"The speaker effectively uses reasoning and evidence by proposing a series of specific plans, connecting the current situation to previous policies, and stating the desired outcome.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}

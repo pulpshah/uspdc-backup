@@ -1,0 +1,21 @@
+89: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.0,\n  \"P\": 4.5,\n  \"L\": 6.5,\n  \"E_Expl\": \"The speaker establishes expertise on the topic of presidential decision-making by referring to their own judgment.\",\n  \"P_Expl\": \"The speaker engages pathos by highlighting the importance of preparedness and readiness for future conflicts, creating a sense of national security concern.\",\n  \"L_Expl\": \"The speaker uses a logical comparison between presidential candidates through evaluating their decision-making capability in military matters.\",\n  \"E_clauses\": {\"we can take a look at our judgment\": 2},\n  \"P_keywords\": {\"prepared and ready for the next conflict\": 2},\n  \"L_clauses\": {\"who is best-equipped as the next president to make good decisions\": 2}\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687408405,
+  "id": "chatcmpl-7U6IX1taMR29DbJDKRqmpF9fNh1Qq",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 255,
+    "total_tokens": 427
+  }
+}

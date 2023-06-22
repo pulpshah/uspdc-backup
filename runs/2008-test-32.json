@@ -1,0 +1,63 @@
+{
+    "id": "chatcmpl-7RFyYm0pUPx1AleXkG7ciLlkTFqsG",
+    "object": "chat.completion",
+    "created": 1686730622,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 163,
+        "completion_tokens": 43,
+        "total_tokens": 206
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\"E\": 0.0, \"P\": 0.0, \"L\": 0.0, \"E_Expl\": \"\", \"P_Expl\": \"\", \"L_Expl\": \"\"}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFyYTsTG6vZPvlaVqr3YmkNdr9T4",
+    "object": "chat.completion",
+    "created": 1686730622,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 459,
+        "completion_tokens": 111,
+        "total_tokens": 570
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 5.0,\n  \"P\": 0.5,\n  \"L\": 5.0,\n  \"E_Expl\": \"The speaker establishes credibility by mentioning their position and affiliation with the NewsHour on PBS.\",\n  \"P_Expl\": \"Though the snippet primarily provides information, there is a minimal emotional appeal in mentioning the audience's promise to remain silent.\",\n  \"L_Expl\": \"Logical design is demonstrated in the structure of the debate and the chosen format including time allocations and topic divisions.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
+{
+    "id": "chatcmpl-7RFyYJNBEGSr2ZxIqMYuMMXUhurgy",
+    "object": "chat.completion",
+    "created": 1686730622,
+    "model": "gpt-4-0314",
+    "usage": {
+        "prompt_tokens": 625,
+        "completion_tokens": 127,
+        "total_tokens": 752
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "{\n  \"E\": 7.5, \n  \"P\": 8.5, \n  \"L\": 7.5, \n  \"E_Expl\": \"The speaker establishes ethos by expressing gratitude to the host and emphasizing the importance of discussing the future of the country.\", \n  \"P_Expl\": \"Pathos is present in the speaker's mention of the financial crisis' effect on everyday people and the concerns of homeowners and the middle-class.\", \n  \"L_Expl\": \"The speaker uses logos by outlining four specific proposals and connecting the current economic situation to the past administration's policies.\"\n}"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
