@@ -1,0 +1,84 @@
+2: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{}\n\n",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687458598,
+  "id": "chatcmpl-7UJM68sP99s8XldhCWAx2CXYYnkRZ",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 212,
+    "total_tokens": 213
+  }
+}
+3: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 5.5,\n  \"L\": 7.4,\n  \"E_Expl\": \"The speaker establishes credibility by referring to their long experience in politics.\",\n  \"P_Expl\": \"The speaker evokes sympathy by mentioning their own emotional state and the struggles of average Americans.\",\n  \"L_Expl\": \"The speaker provides logical arguments for the proposed financial package and its essential elements.\",\n  \"E_Clauses\": {\n    \"1\": \"And I\u2019ve been around a little while.\"\n  },\n  \"P_Clauses\": {\n    \"1\": \"I\u2019ve been not feeling too great about a lot of things lately.\",\n    \"2\": \"So have a lot of Americans who are facing challenges.\"\n  },\n  \"L_Clauses\": {\n    \"1\": \"we are seeing, for the first time in a long time, Republicans and Democrats together, sitting down, trying to work out a solution\",\n    \"2\": \"This package has transparency in it.\",\n    \"3\": \"It has to have accountability and oversight.\",\n    \"4\": \"It has to have options for loans to failing businesses, rather than the government taking over those loans.\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687458598,
+  "id": "chatcmpl-7UJM6JTTtbaI6XekSJjzPkLzbZdeP",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 258,
+    "prompt_tokens": 664,
+    "total_tokens": 922
+  }
+}
+0: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 6.7,\n  \"P\": 2.3,\n  \"L\": 6.5,\n  \"E_Expl\": \"The introduction establishes the credibility of the moderator and the structure of the debate.\",\n  \"P_Expl\": \"Telling the audience their role in remaining silent contributes to pathos in a comparatively minor way.\",\n  \"L_Expl\": \"The presentation of the debate format and Eisenhower's quote display logical organization and context.\",\n  \"E_Clauses\": {\n    \"1\": \"I\u2019m Jim Lehrer of the NewsHour on PBS\",\n    \"2\": \"The Commission on Presidential Debates is the sponsor of this event and the three other presidential and vice presidential debates coming in October\"\n  },\n  \"P_Clauses\": {\n    \"1\": \"The audience here in the hall has promised to remain silent, no cheers, no applause, no noise of any kind\"\n  },\n  \"L_Clauses\": {\n    \"1\": \"Tonight\u2019s will primarily be about foreign policy and national security, which, by definition, includes the global financial crisis\",\n    \"2\": \"It will be divided roughly into nine-minute segments\",\n    \"3\": \"Direct exchanges between the candidates and moderator follow-ups are permitted after each candidate has two minutes to answer the lead question in an order determined by a coin toss\",\n    \"4\": \"Let me begin with something General Eisenhower said in his 1952 presidential campaign\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687458598,
+  "id": "chatcmpl-7UJM6jQgX2iLp5HTXCMntr4tFYYtW",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 306,
+    "prompt_tokens": 508,
+    "total_tokens": 814
+  }
+}
+1: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"E\": 7.5,\n  \"P\": 8.0,\n  \"L\": 8.5,\n  \"E_Expl\": \"The speaker establishes credibility by expressing gratitude and mentioning the importance of the discussion.\",\n  \"P_Expl\": \"The speaker engages the audience emotionally by addressing their concerns about the financial crisis.\",\n  \"L_Expl\": \"The speaker provides a logical argument by outlining specific proposals to address the economic situation.\",\n  \"E_Clauses\": {\n    \"1\": \"Well, thank you very much, Jim, and thanks to the commission and the University of Mississippi, Ole Miss, for hosting us tonight.\"\n  },\n  \"P_Clauses\": {\n    \"1\": \"And although we\u2019ve heard a lot about Wall Street, those of you on Main Street I think have been struggling for a while, and you recognize that this could have an impact on all sectors of the economy.\",\n    \"2\": \"And you\u2019re wondering, how\u2019s it going to affect me? How\u2019s it going to affect my job? How\u2019s it going to affect my house? How\u2019s it going to affect my retirement savings or my ability to send my children to college?\"\n  },\n  \"L_Clauses\": {\n    \"1\": \"So we have to move swiftly, and we have to move wisely.\",\n    \"2\": \"And I\u2019ve put forward a series of proposals that make sure that we protect taxpayers as we engage in this important rescue effort.\",\n    \"3\": \"Number one, we\u2019ve got to make sure that we\u2019ve got oversight over this whole process; $700 billion, potentially, is a lot of money.\",\n    \"4\": \"Number two, we\u2019ve got to make sure that taxpayers, when they are putting their money at risk, have the possibility of getting that money back and gains, if the market \u2014 and when the market returns.\",\n    \"5\": \"Number three, we\u2019ve got to make sure that none of that money is going to pad CEO bank accounts or to promote golden parachutes.\",\n    \"6\": \"And, number four, we\u2019ve got to make sure that we\u2019re helping homeowners, because the root problem here has to do with the foreclosures that are taking place all across the country.\"\n  }\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687458599,
+  "id": "chatcmpl-7UJM7hlywjLAzd9RfootAIZoYLKny",
+  "model": "gpt-4-0314",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 470,
+    "prompt_tokens": 674,
+    "total_tokens": 1144
+  }
+}
